@@ -120,3 +120,48 @@ print("pengguna internet) -> gunakan sampai 2024 untuk visual yang solid.")
 
 scatter_w.to_csv(OUT_DIR / "scatter_dunia_gni_internet.csv", index=False, encoding="utf-8-sig")
 print("Tersimpan:", OUT_DIR / "scatter_dunia_gni_internet.csv")
+
+
+# ============================================================
+# TABEL 4: Makro-Mikro Dunia — 6 faktor struktural per negara-tahun
+# (untuk Halaman 1 Macro + Halaman 2 Mikro perbandingan head-to-head
+#  Indonesia vs negara pembanding pilihan bebas)
+# ============================================================
+from functools import reduce
+
+def ambil(df_src, nama_indikator, satuan_filter, kolom_baru):
+    sub = df_src[df_src["nama_indikator"] == nama_indikator]
+    if satuan_filter:
+        sub = sub[sub["satuan"] == satuan_filter]
+    return sub[["kode_wilayah", "nama_wilayah", "tahun", "nilai"]].rename(columns={"nilai": kolom_baru})
+
+# pakai 'dunia' yang nama negaranya SUDAH dinormalisasi dari blok Tabel 3 di atas
+internet_mm = ambil(dunia, "Pengguna internet", None, "pengguna_internet_persen")
+gni_mm      = ambil(dunia, "Pendapatan nasional bruto per kapita", None, "gni_per_kapita_usd")
+# indikator harga punya 3 satuan (USD/GNIpc/PPP) untuk nama yang sama -> WAJIB filter satuan,
+# pakai GNIpc karena itu standar internasional (ITU/UN Broadband Commission) untuk keterjangkauan
+harga_mm    = ambil(dunia, "Data-only mobile broadband 2GB (2021-2024)", "GNIpc", "harga_data_persen_gni")
+listrik_mm  = ambil(dunia, "Penduduk dengan akses listrik", None, "akses_listrik_persen")
+pend_mm     = ambil(dunia, "Angka partisipasi kasar pendidikan menengah", None, "partisipasi_pendidikan_persen")
+urban_mm    = ambil(dunia, "Penduduk yang tinggal di wilayah perkotaan", None, "urbanisasi_persen")
+
+tabel_mm = reduce(
+    lambda l, r: pd.merge(l, r, on=["kode_wilayah", "nama_wilayah", "tahun"], how="outer"),
+    [internet_mm, gni_mm, harga_mm, listrik_mm, pend_mm, urban_mm],
+)
+tabel_mm["is_indonesia"] = tabel_mm["kode_wilayah"] == "IDN"
+tabel_mm["is_asean"] = tabel_mm["kode_wilayah"].isin(ASEAN_CODES)
+tabel_mm = tabel_mm.sort_values(["tahun", "nama_wilayah"])
+
+lengkap_mm = tabel_mm.dropna(subset=[
+    "pengguna_internet_persen", "gni_per_kapita_usd", "harga_data_persen_gni",
+    "akses_listrik_persen", "partisipasi_pendidikan_persen", "urbanisasi_persen",
+])
+print(f"\n=== Tabel Makro-Mikro Dunia (6 faktor) ===")
+print("Shape:", tabel_mm.shape)
+print("Baris dengan SEMUA 6 kolom lengkap:", lengkap_mm.shape[0])
+print("CATATAN: kolom harga_data_persen_gni cuma ada 2021-2024, jadi analisis")
+print("6-faktor lengkap sebaiknya dibatasi ke rentang tahun itu saja.")
+
+tabel_mm.to_csv(OUT_DIR / "dataset_dunia_makro_mikro.csv", index=False, encoding="utf-8-sig")
+print("Tersimpan:", OUT_DIR / "dataset_dunia_makro_mikro.csv")
