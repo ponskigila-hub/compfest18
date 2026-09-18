@@ -1,0 +1,45 @@
+Dataset ASEAN awal : 4895 baris, 16 kolom
+Dataset Indonesia awal : 4575 baris, 16 kolom
+Standarisasi nama negara ASEAN: 12 -> 11 nama unik (khusus Laos: 'Lao P.D.R.' & 'Lao PDR' -> 'Laos')
+
+kode_indikator yang tidak unik di dataset Indonesia (perlu id_indikator_unik): ['internet_access_pct', 'percentage_users']
+
+Distribusi versi_wilayah per tahun (untuk cek konsistensi tren):
+versi_wilayah  id_34_papua_aggregated_2023_2024  id_34_pre_split  id_38_2024
+tahun                                                                       
+2017                                          0              101           0
+2018                                          0              169           0
+2019                                          0              169           0
+2020                                          0              169           0
+2021                                          0              304           0
+2022                                          0              270           0
+2023                                        510              270           0
+2024                                        510                0        2103
+
+CATATAN PENTING:
+- 2017-2022 & sebagian besar topik 2023 -> 34 provinsi lama (Papua & Papua Barat belum pecah)
+- 2024 topik 'Pembangunan TIK' & 'Komponen pembangunan TIK' -> tetap 34 provinsi   (6 provinsi baru di Papua sudah diagregasikan balik oleh sumber data / BPS)
+- 2024 topik lain (Akses internet, Akses rumah tangga, Kesenjangan gender,   Perangkat akses, Pemanfaatan internet) -> 38 provinsi (Papua sudah pecah)
+- Untuk GARIS TREN 2017-2024 yang mulus, gunakan agregasi 34 provinsi   (kelompokkan 6 provinsi pecahan Papua kembali ke 'Papua'/'Papua Barat' -> lihat kolom   provinsi_induk_34 di bawah).
+- Untuk SNAPSHOT/PETA tahun 2024 paling detail, gunakan versi 38 provinsi apa adanya.
+
+Distribusi region_group: {'Luar Jawa': 3829, 'Jawa': 746}
+
+Jumlah baris data Literasi Digital (snapshot 2021, dipisah dari tren utama): 34
+
+Cek duplikat setelah cleaning (pakai id_indikator_unik):
+  Dataset Indonesia : 0 baris duplikat
+  Dataset ASEAN     : 0 baris duplikat
+
+Cek nilai kosong/null di kolom 'nilai':
+  Dataset Indonesia : 0
+  Dataset ASEAN     : 0
+
+Rentang nilai kolom 'nilai':
+  Indonesia : min=0.02, max=99.78
+  ASEAN     : min=0.0, max=81760.0
+
+✅ Selesai. File bersih tersimpan di folder '../03_clean_data/':
+   - dataset_asia_tenggara_clean.csv (4895 baris, 16 kolom)
+   - dataset_indonesia_clean.csv (4575 baris, 21 kolom)
+   - mapping_jawa_luar_jawa.csv (38 baris)

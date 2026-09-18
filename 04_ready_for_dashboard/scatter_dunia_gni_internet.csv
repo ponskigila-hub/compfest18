@@ -1,0 +1,2800 @@
+﻿kode_wilayah,nama_wilayah,tahun,gni_per_kapita_usd,pengguna_internet_persen,is_indonesia,is_asean
+AFG,Afghanistan,2010,530.0,4.0,False,False
+ALB,Albania,2010,4430.0,45.0,False,False
+DZA,Algeria,2010,4870.0,12.5,False,False
+AGO,Angola,2010,3780.0,2.799999952,False,False
+ATG,Antigua and Barbuda,2010,14390.0,47.0,False,False
+ARG,Argentina,2010,9160.0,45.0,False,False
+ARM,Armenia,2010,3280.0,25.0,False,False
+ABW,Aruba,2010,23050.0,62.0,False,False
+AUS,Australia,2010,46900.0,76.0,False,False
+AUT,Austria,2010,49460.0,75.17,False,False
+AZE,Azerbaijan,2010,5400.0,46.0,False,False
+BHS,Bahamas,2010,27320.0,43.0,False,False
+BHR,Bahrain,2010,19510.0,55.0,False,False
+BGD,Bangladesh,2010,780.0,3.700000048,False,False
+BRB,Barbados,2010,16220.0,65.09999847,False,False
+BLR,Belarus,2010,6150.0,31.8,False,False
+BEL,Belgium,2010,47110.0,77.63978551,False,False
+BLZ,Belize,2010,5060.0,28.2,False,False
+BEN,Benin,2010,1020.0,3.13,False,False
+BMU,Bermuda,2010,105750.0,84.21,False,False
+BTN,Bhutan,2010,2180.0,13.6,False,False
+BOL,Bolivia,2010,1760.0,22.39999962,False,False
+BIH,Bosnia and Herzegovina,2010,4820.0,42.75,False,False
+BWA,Botswana,2010,5370.0,6.0,False,False
+BRA,Brazil,2010,9750.0,40.65,False,False
+BRN,Brunei Darussalam,2010,35370.0,53.0,False,True
+BGR,Bulgaria,2010,6960.0,46.23,False,False
+BFA,Burkina Faso,2010,630.0,2.400000095,False,False
+BDI,Burundi,2010,200.0,1.0,False,False
+CPV,Cabo Verde,2010,3600.0,30.0,False,False
+KHM,Cambodia,2010,910.0,1.26,False,True
+CMR,Cameroon,2010,1450.0,4.300000191,False,False
+CAN,Canada,2010,44490.0,80.3,False,False
+CYM,Cayman Islands,2010,73550.0,66.0,False,False
+CAF,Central African Rep.,2010,500.0,2.0,False,False
+TCD,Chad,2010,1150.0,1.700000048,False,False
+CHL,Chile,2010,10720.0,45.0,False,False
+CHN,China,2010,4410.0,34.3,False,False
+COL,Colombia,2010,5690.0,36.5,False,False
+COM,Comoros,2010,1450.0,5.099999905,False,False
+COG,Congo (Rep. of the),2010,2640.0,5.0,False,False
+COD,"Congo, Dem. Rep.",2010,320.0,0.72,False,False
+CRI,Costa Rica,2010,7290.0,36.5,False,False
+CIV,Cote d'Ivoire,2010,1120.0,2.700000048,False,False
+HRV,Croatia,2010,13900.0,56.55,False,False
+CUB,Cuba,2010,5170.0,15.9,False,False
+CYP,Cyprus,2010,32210.0,52.99,False,False
+CZE,Czech Republic,2010,19420.0,68.82,False,False
+DNK,Denmark,2010,61290.0,88.72,False,False
+DMA,Dominica,2010,7250.0,47.45,False,False
+DOM,Dominican Rep.,2010,5260.0,31.39999962,False,False
+ECU,Ecuador,2010,4290.0,29.03,False,False
+EGY,Egypt,2010,2200.0,21.6,False,False
+SLV,El Salvador,2010,2940.0,15.9,False,False
+GNQ,Equatorial Guinea,2010,7920.0,6.0,False,False
+ERI,Eritrea,2010,550.0,0.610000014,False,False
+EST,Estonia,2010,14580.0,74.1,False,False
+SWZ,Eswatini,2010,3260.0,11.04,False,False
+ETH,Ethiopia,2010,370.0,0.75,False,False
+FRO,Faroe Islands,2010,49050.0,75.2,False,False
+FJI,Fiji,2010,3450.0,20.0,False,False
+FIN,Finland,2010,49750.0,86.89,False,False
+FRA,France,2010,44040.0,77.28,False,False
+PYF,French Polynesia,2010,26220.0,49.0,False,False
+GAB,Gabon,2010,7420.0,13.0,False,False
+GMB,Gambia,2010,830.0,9.2,False,False
+GEO,Georgia,2010,3220.0,26.9,False,False
+DEU,Germany,2010,45530.0,82.0,False,False
+GHA,Ghana,2010,1200.0,7.8,False,False
+GRC,Greece,2010,27320.0,44.4,False,False
+GRD,Grenada,2010,6610.0,27.0,False,False
+GTM,Guatemala,2010,2690.0,10.5,False,False
+GIN,Guinea,2010,680.0,1.0,False,False
+GNB,Guinea-Bissau,2010,620.0,2.450000048,False,False
+GUY,Guyana,2010,4520.0,29.9,False,False
+HTI,Haiti,2010,1140.0,8.369999886,False,False
+HND,Honduras,2010,1730.0,11.09,False,False
+HKG,"Hong Kong SAR, China",2010,33620.0,72.0,False,False
+HUN,Hungary,2010,13250.0,65.0,False,False
+ISL,Iceland,2010,38480.0,93.39,False,False
+IND,India,2010,1210.0,7.5,False,False
+IDN,Indonesia,2010,2490.0,10.92,True,True
+IRN,Iran (Islamic Republic of),2010,5910.0,15.9,False,False
+IRQ,Iraq,2010,4390.0,2.5,False,False
+IRL,Ireland,2010,44970.0,69.85,False,False
+ISR,Israel,2010,30770.0,67.5,False,False
+ITA,Italy,2010,37720.0,53.68,False,False
+JAM,Jamaica,2010,4490.0,27.67,False,False
+JPN,Japan,2010,44290.0,78.21,False,False
+JOR,Jordan,2010,3950.0,27.2,False,False
+KAZ,Kazakhstan,2010,7210.0,31.6,False,False
+KEN,Kenya,2010,930.0,7.2,False,False
+KIR,Kiribati,2010,2030.0,9.07,False,False
+KOR,Korea (Rep. of),2010,23250.0,83.7,False,False
+KWT,Kuwait,2010,42850.0,61.40000153,False,False
+KGZ,Kyrgyz Republic,2010,850.0,16.29999924,False,False
+LAO,Lao P.D.R.,2010,990.0,7.0,False,True
+LVA,Latvia,2010,12250.0,68.42,False,False
+LBN,Lebanon,2010,7340.0,43.68000031,False,False
+LSO,Lesotho,2010,1270.0,3.859999895,False,False
+LBR,Liberia,2010,440.0,2.3,False,False
+LBY,Libya,2010,11550.0,14.0,False,False
+LTU,Lithuania,2010,12430.0,62.12,False,False
+LUX,Luxembourg,2010,77640.0,90.62,False,False
+MAC,"Macao SAR, China",2010,45370.0,55.198,False,False
+MDG,Madagascar,2010,450.0,1.700000048,False,False
+MWI,Malawi,2010,650.0,2.26,False,False
+MYS,Malaysia,2010,8130.0,56.3,False,True
+MDV,Maldives,2010,6000.0,26.53,False,False
+MLI,Mali,2010,780.0,2.0,False,False
+MLT,Malta,2010,21440.0,63.0,False,False
+MHL,Marshall Islands,2010,3820.0,7.0,False,False
+MRT,Mauritania,2010,1550.0,4.0,False,False
+MUS,Mauritius,2010,8210.0,28.33,False,False
+MEX,Mexico,2010,9470.0,31.05,False,False
+FSM,Micronesia,2010,2740.0,20.0,False,False
+MDA,Moldova,2010,2380.0,29.68000031,False,False
+MNG,Mongolia,2010,1990.0,10.2,False,False
+MNE,Montenegro,2010,6920.0,37.5,False,False
+MAR,Morocco,2010,3190.0,52.0,False,False
+MOZ,Mozambique,2010,550.0,4.17,False,False
+MMR,Myanmar,2010,880.0,0.25,False,True
+NAM,Namibia,2010,4520.0,11.6,False,False
+NPL,Nepal,2010,530.0,7.93,False,False
+NLD,Netherlands,2010,54000.0,90.72,False,False
+NZL,New Zealand,2010,29750.0,80.45999908,False,False
+NIC,Nicaragua,2010,1490.0,10.0,False,False
+NER,Niger,2010,510.0,0.829999983,False,False
+NGA,Nigeria,2010,2050.0,11.5,False,False
+MKD,North Macedonia,2010,5010.0,51.9,False,False
+NOR,Norway,2010,88970.0,93.39,False,False
+OMN,Oman,2010,22510.0,35.8278,False,False
+PAK,Pakistan,2010,1000.0,8.0,False,False
+PAN,Panama,2010,7500.0,40.1,False,False
+PNG,Papua New Guinea,2010,1660.0,1.28,False,False
+PRY,Paraguay,2010,4410.0,19.8,False,False
+PER,Peru,2010,4400.0,34.77,False,False
+PHL,Philippines,2010,2310.0,25.0,False,True
+POL,Poland,2010,12730.0,62.32,False,False
+PRT,Portugal,2010,23030.0,53.3,False,False
+PRI,Puerto Rico,2010,16910.0,45.3,False,False
+QAT,Qatar,2010,71900.0,69.0,False,False
+ROU,Romania,2010,8770.0,39.93,False,False
+RUS,Russian Federation,2010,9980.0,49.0,False,False
+RWA,Rwanda,2010,580.0,8.0,False,False
+KNA,Saint Kitts and Nevis,2010,15970.0,63.0,False,False
+LCA,Saint Lucia,2010,8240.0,32.5,False,False
+VCT,Saint Vincent and the Grenadines,2010,6310.0,33.70000076,False,False
+WSM,Samoa,2010,3430.0,7.0,False,False
+STP,Sao Tome and Principe,2010,1090.0,18.75,False,False
+SAU,Saudi Arabia,2010,21820.0,41.0,False,False
+SEN,Senegal,2010,1340.0,8.0,False,False
+SRB,Serbia,2010,6500.0,40.9,False,False
+SYC,Seychelles,2010,10160.0,41.0,False,False
+SLE,Sierra Leone,2010,690.0,0.579999983,False,False
+SGP,Singapore,2010,44930.0,71.0,False,True
+SVK,Slovak Republic,2010,17370.0,75.71,False,False
+SVN,Slovenia,2010,24370.0,70.0,False,False
+SLB,Solomon Islands,2010,1600.0,5.0,False,False
+ZAF,South Africa,2010,6730.0,24.0,False,False
+ESP,Spain,2010,32060.0,65.8,False,False
+LKA,Sri Lanka,2010,2360.0,6.912399769,False,False
+PSE,State of Palestine,2010,2510.0,37.40000153,False,False
+SUR,Suriname,2010,7330.0,31.59,False,False
+SWE,Sweden,2010,54380.0,90.0,False,False
+CHE,Switzerland,2010,80400.0,83.9,False,False
+SYR,Syrian Arab Republic,2010,2480.0,20.7,False,False
+TJK,Tajikistan,2010,910.0,11.55000019,False,False
+TZA,Tanzania,2010,720.0,2.900000095,False,False
+THA,Thailand,2010,4490.0,22.4,False,True
+TLS,Timor-Leste,2010,2870.0,3.0,False,True
+TGO,Togo,2010,790.0,3.0,False,False
+TON,Tonga,2010,3270.0,16.0,False,False
+TTO,Trinidad and Tobago,2010,16590.0,48.5,False,False
+TUN,Tunisia,2010,4140.0,36.8,False,False
+TUR,Turkiye,2010,10460.0,39.82,False,False
+TKM,Turkmenistan,2010,3720.0,3.0,False,False
+TUV,Tuvalu,2010,4460.0,14.60000038,False,False
+UGA,Uganda,2010,680.0,4.300000191,False,False
+UKR,Ukraine,2010,2990.0,23.3,False,False
+ARE,United Arab Emirates,2010,42380.0,68.0,False,False
+GBR,United Kingdom,2010,42010.0,85.0,False,False
+USA,United States,2010,49180.0,71.69,False,False
+URY,Uruguay,2010,10930.0,46.4,False,False
+UZB,Uzbekistan,2010,1460.0,15.89999962,False,False
+VUT,Vanuatu,2010,2580.0,8.0,False,False
+VEN,Venezuela,2010,11650.0,37.37,False,False
+VNM,Viet Nam,2010,1370.0,30.65,False,True
+YEM,Yemen,2010,1040.0,12.35,False,False
+ZMB,Zambia,2010,1310.0,3.0,False,False
+ZWE,Zimbabwe,2010,640.0,6.400000095,False,False
+AFG,Afghanistan,2011,550.0,5.0,False,False
+ALB,Albania,2011,4460.0,47.0,False,False
+DZA,Algeria,2011,5050.0,14.89999962,False,False
+AGO,Angola,2011,3960.0,4.699999809,False,False
+ATG,Antigua and Barbuda,2011,14100.0,52.0,False,False
+ARG,Argentina,2011,10590.0,51.0,False,False
+ARM,Armenia,2011,3360.0,32.0,False,False
+ABW,Aruba,2011,23100.0,69.0,False,False
+AUS,Australia,2011,50570.0,79.48769771,False,False
+AUT,Austria,2011,50380.0,78.7399931,False,False
+AZE,Azerbaijan,2011,5490.0,50.0,False,False
+BHS,Bahamas,2011,26990.0,65.0,False,False
+BHR,Bahrain,2011,20040.0,76.9999665,False,False
+BGD,Bangladesh,2011,870.0,4.5,False,False
+BRB,Barbados,2011,17150.0,66.5,False,False
+BLR,Belarus,2011,6350.0,39.64889566,False,False
+BEL,Belgium,2011,46720.0,81.609996,False,False
+BLZ,Belize,2011,5160.0,30.70000076,False,False
+BEN,Benin,2011,1030.0,4.148323066,False,False
+BMU,Bermuda,2011,102930.0,88.336,False,False
+BTN,Bhutan,2011,2430.0,14.39999962,False,False
+BOL,Bolivia,2011,1970.0,30.0,False,False
+BIH,Bosnia and Herzegovina,2011,4900.0,43.88769913,False,False
+BWA,Botswana,2011,6500.0,9.0,False,False
+BRA,Brazil,2011,11210.0,45.69,False,False
+BRN,Brunei Darussalam,2011,36520.0,56.0,False,True
+BGR,Bulgaria,2011,7210.0,47.97999305,False,False
+BFA,Burkina Faso,2011,660.0,3.0,False,False
+BDI,Burundi,2011,220.0,1.110000014,False,False
+CPV,Cabo Verde,2011,3760.0,32.0,False,False
+KHM,Cambodia,2011,990.0,3.099999905,False,True
+CMR,Cameroon,2011,1470.0,5.0,False,False
+CAN,Canada,2011,47190.0,83.0,False,False
+CYM,Cayman Islands,2011,73950.0,69.46594499,False,False
+CAF,Central African Rep.,2011,510.0,2.200000048,False,False
+TCD,Chad,2011,1190.0,1.899999976,False,False
+CHL,Chile,2011,11860.0,52.24960729,False,False
+CHN,China,2011,5130.0,38.3,False,False
+COL,Colombia,2011,6370.0,40.35091575,False,False
+COM,Comoros,2011,1490.0,5.5,False,False
+COG,Congo (Rep. of the),2011,2580.0,5.6,False,False
+COD,"Congo, Dem. Rep.",2011,320.0,1.200000048,False,False
+CRI,Costa Rica,2011,8130.0,39.212196,False,False
+CIV,Cote d'Ivoire,2011,1020.0,2.900000095,False,False
+HRV,Croatia,2011,14020.0,57.78997899,False,False
+CUB,Cuba,2011,5590.0,16.0172908,False,False
+CYP,Cyprus,2011,32680.0,56.85989235,False,False
+CZE,Czech Republic,2011,19600.0,70.49,False,False
+DNK,Denmark,2011,62050.0,89.81001339,False,False
+DMA,Dominica,2011,7510.0,48.59999847,False,False
+DOM,Dominican Rep.,2011,5460.0,38.0,False,False
+ECU,Ecuador,2011,4770.0,31.36680836,False,False
+EGY,Egypt,2011,2380.0,25.6,False,False
+SLV,El Salvador,2011,3120.0,18.89999962,False,False
+GNQ,Equatorial Guinea,2011,9030.0,11.5,False,False
+ERI,Eritrea,2011,650.0,0.699999988,False,False
+EST,Estonia,2011,15900.0,76.5,False,False
+SWZ,Eswatini,2011,3620.0,18.13,False,False
+ETH,Ethiopia,2011,380.0,1.100000024,False,False
+FRO,Faroe Islands,2011,53420.0,80.7321728,False,False
+FJI,Fiji,2011,3570.0,28.0,False,False
+FIN,Finland,2011,50200.0,88.70999491,False,False
+FRA,France,2011,44610.0,77.81999899,False,False
+PYF,French Polynesia,2011,25270.0,49.0,False,False
+GAB,Gabon,2011,7680.0,18.0,False,False
+GMB,Gambia,2011,710.0,10.87030029,False,False
+GEO,Georgia,2011,3580.0,31.52000046,False,False
+DEU,Germany,2011,48200.0,81.26999954,False,False
+GHA,Ghana,2011,1350.0,9.0,False,False
+GRC,Greece,2011,24470.0,51.64999517,False,False
+GRD,Grenada,2011,6730.0,30.0,False,False
+GTM,Guatemala,2011,2850.0,12.30000019,False,False
+GIN,Guinea,2011,670.0,2.0,False,False
+GNB,Guinea-Bissau,2011,660.0,2.671999931,False,False
+GUY,Guyana,2011,4860.0,30.0,False,False
+HTI,Haiti,2011,1260.0,9.0,False,False
+HND,Honduras,2011,1860.0,15.9,False,False
+HKG,"Hong Kong SAR, China",2011,35690.0,72.19999695,False,False
+HUN,Hungary,2011,13260.0,68.01998789,False,False
+ISL,Iceland,2011,39690.0,94.8196868,False,False
+IND,India,2011,1350.0,10.07,False,False
+IDN,Indonesia,2011,2960.0,12.28,True,True
+IRN,Iran (Islamic Republic of),2011,6680.0,19.0,False,False
+IRQ,Iraq,2011,4740.0,5.0,False,False
+IRL,Ireland,2011,42670.0,74.88997297,False,False
+ISR,Israel,2011,32820.0,68.87387799,False,False
+ITA,Italy,2011,37710.0,54.3899983,False,False
+JAM,Jamaica,2011,4700.0,37.43861341,False,False
+JPN,Japan,2011,47800.0,79.05411352,False,False
+JOR,Jordan,2011,4140.0,34.9,False,False
+KAZ,Kazakhstan,2011,8030.0,50.6,False,False
+KEN,Kenya,2011,1010.0,8.800000191,False,False
+KIR,Kiribati,2011,2110.0,10.0,False,False
+KOR,Korea (Rep. of),2011,24590.0,83.75912015,False,False
+KWT,Kuwait,2011,44350.0,65.76907069,False,False
+KGZ,Kyrgyz Republic,2011,870.0,17.5,False,False
+LAO,Lao P.D.R.,2011,1130.0,9.0,False,True
+LVA,Latvia,2011,12470.0,69.74995456,False,False
+LBN,Lebanon,2011,7720.0,52.0,False,False
+LSO,Lesotho,2011,1350.0,7.0,False,False
+LBR,Liberia,2011,500.0,2.5,False,False
+LBY,Libya,2011,6080.0,14.0,False,False
+LTU,Lithuania,2011,13200.0,63.6399774,False,False
+LUX,Luxembourg,2011,79210.0,90.02985856,False,False
+MAC,"Macao SAR, China",2011,54620.0,60.20369672,False,False
+MDG,Madagascar,2011,460.0,1.899999976,False,False
+MWI,Malawi,2011,710.0,3.33,False,False
+MYS,Malaysia,2011,8890.0,61.0,False,True
+MDV,Maldives,2011,6720.0,34.0,False,False
+MLI,Mali,2011,830.0,2.2,False,False
+MLT,Malta,2011,22060.0,68.01982379,False,False
+MHL,Marshall Islands,2011,3860.0,10.0,False,False
+MRT,Mauritania,2011,1640.0,4.5,False,False
+MUS,Mauritius,2011,8530.0,34.95000076,False,False
+MEX,Mexico,2011,9760.0,37.17629541,False,False
+FSM,Micronesia,2011,2920.0,22.79999924,False,False
+MDA,Moldova,2011,2730.0,32.06999969,False,False
+MNG,Mongolia,2011,2570.0,12.49999111,False,False
+MNE,Montenegro,2011,7240.0,35.61154125,False,False
+MAR,Morocco,2011,3260.0,46.1074826,False,False
+MOZ,Mozambique,2011,570.0,4.599999905,False,False
+MMR,Myanmar,2011,1040.0,0.98,False,True
+NAM,Namibia,2011,5160.0,12.0,False,False
+NRU,Naoero,2011,7000.0,54.0,False,False
+NPL,Nepal,2011,620.0,9.0,False,False
+NLD,Netherlands,2011,54270.0,91.41999576,False,False
+NZL,New Zealand,2011,32270.0,81.23000336,False,False
+NIC,Nicaragua,2011,1600.0,10.6,False,False
+NER,Niger,2011,520.0,0.9,False,False
+NGA,Nigeria,2011,2100.0,13.80000019,False,False
+MKD,North Macedonia,2011,5140.0,56.7,False,False
+NOR,Norway,2011,91010.0,93.48998265,False,False
+OMN,Oman,2011,20820.0,48.0,False,False
+PAK,Pakistan,2011,1020.0,8.0,False,False
+PAN,Panama,2011,8860.0,42.7,False,False
+PNG,Papua New Guinea,2011,1730.0,2.0,False,False
+PRY,Paraguay,2011,4840.0,24.76351588,False,False
+PER,Peru,2011,4960.0,36.01,False,False
+PHL,Philippines,2011,2450.0,29.0,False,True
+POL,Poland,2011,12900.0,61.94999897,False,False
+PRT,Portugal,2011,22750.0,55.24999688,False,False
+PRI,Puerto Rico,2011,17600.0,48.0,False,False
+QAT,Qatar,2011,82960.0,69.0,False,False
+ROU,Romania,2011,9080.0,40.00999678,False,False
+RUS,Russian Federation,2011,11060.0,58.0,False,False
+RWA,Rwanda,2011,630.0,7.0,False,False
+KNA,Saint Kitts and Nevis,2011,16760.0,63.20000076,False,False
+LCA,Saint Lucia,2011,8890.0,34.0,False,False
+VCT,Saint Vincent and the Grenadines,2011,6390.0,36.70000076,False,False
+WSM,Samoa,2011,3570.0,11.0,False,False
+STP,Sao Tome and Principe,2011,1140.0,20.16119957,False,False
+SAU,Saudi Arabia,2011,24110.0,47.5,False,False
+SEN,Senegal,2011,1310.0,9.800000191,False,False
+SRB,Serbia,2011,6380.0,42.2,False,False
+SYC,Seychelles,2011,11150.0,43.16400146,False,False
+SLE,Sierra Leone,2011,710.0,0.899999976,False,False
+SGP,Singapore,2011,48250.0,71.0,False,True
+SVK,Slovak Republic,2011,17560.0,74.43999717,False,False
+SVN,Slovenia,2011,24340.0,67.33999481,False,False
+SLB,Solomon Islands,2011,1690.0,6.0,False,False
+SOM,Somalia,2011,250.0,1.25,False,False
+ZAF,South Africa,2011,7620.0,33.97,False,False
+ESP,Spain,2011,31170.0,67.08999939,False,False
+LKA,Sri Lanka,2011,2830.0,7.956399918,False,False
+PSE,State of Palestine,2011,2880.0,41.08000183,False,False
+SUR,Suriname,2011,7620.0,32.0,False,False
+SWE,Sweden,2011,56450.0,92.76998606,False,False
+CHE,Switzerland,2011,82540.0,85.19302818,False,False
+SYR,Syrian Arab Republic,2011,2600.0,22.5,False,False
+TJK,Tajikistan,2011,1000.0,13.02999973,False,False
+TZA,Tanzania,2011,760.0,3.200000048,False,False
+THA,Thailand,2011,4840.0,23.66992562,False,True
+TLS,Timor-Leste,2011,3740.0,4.0,False,True
+TGO,Togo,2011,850.0,3.5,False,False
+TON,Tonga,2011,3660.0,25.0,False,False
+TTO,Trinidad and Tobago,2011,15060.0,55.2,False,False
+TUN,Tunisia,2011,4060.0,39.1,False,False
+TUR,Turkiye,2011,11260.0,43.06571043,False,False
+TKM,Turkmenistan,2011,4300.0,5.0,False,False
+TUV,Tuvalu,2011,4740.0,16.5,False,False
+UGA,Uganda,2011,860.0,4.599999905,False,False
+UKR,Ukraine,2011,3100.0,28.70826284,False,False
+ARE,United Arab Emirates,2011,45610.0,78.0,False,False
+GBR,United Kingdom,2011,41240.0,85.37999855,False,False
+USA,United States,2011,50620.0,69.72946076,False,False
+URY,Uruguay,2011,12730.0,51.40466106,False,False
+UZB,Uzbekistan,2011,1880.0,18.6,False,False
+VUT,Vanuatu,2011,2790.0,9.199999809,False,False
+VEN,Venezuela,2011,11850.0,40.22,False,False
+VNM,Viet Nam,2011,1630.0,35.07,False,True
+YEM,Yemen,2011,930.0,14.90499973,False,False
+ZMB,Zambia,2011,1380.0,3.5,False,False
+ZWE,Zimbabwe,2011,960.0,8.399999619,False,False
+AFG,Afghanistan,2012,640.0,5.454500198,False,False
+ALB,Albania,2012,4430.0,49.40000153,False,False
+DZA,Algeria,2012,5630.0,18.20000076,False,False
+AGO,Angola,2012,4750.0,7.699999809,False,False
+ATG,Antigua and Barbuda,2012,14530.0,58.0,False,False
+ARG,Argentina,2012,11770.0,55.79999924,False,False
+ARM,Armenia,2012,3700.0,37.5,False,False
+ABW,Aruba,2012,23970.0,74.0,False,False
+AUS,Australia,2012,60500.0,79.0,False,False
+AUT,Austria,2012,49760.0,80.02999392,False,False
+AZE,Azerbaijan,2012,6440.0,54.20000076,False,False
+BHS,Bahamas,2012,27910.0,71.74819946,False,False
+BHR,Bahrain,2012,24670.0,88.0,False,False
+BGD,Bangladesh,2012,950.0,5.0,False,False
+BRB,Barbados,2012,19080.0,71.19999695,False,False
+BLR,Belarus,2012,6630.0,46.91,False,False
+BEL,Belgium,2012,47170.0,80.71999055,False,False
+BLZ,Belize,2012,5330.0,31.0,False,False
+BEN,Benin,2012,1050.0,4.5,False,False
+BMU,Bermuda,2012,101910.0,91.29930452,False,False
+BTN,Bhutan,2012,2620.0,15.60000038,False,False
+BOL,Bolivia,2012,2220.0,35.34,False,False
+BIH,Bosnia and Herzegovina,2012,4900.0,45.0644989,False,False
+BWA,Botswana,2012,6680.0,16.0,False,False
+BRA,Brazil,2012,12460.0,48.56,False,False
+BRN,Brunei Darussalam,2012,41690.0,60.27310181,False,True
+BGR,Bulgaria,2012,7400.0,51.89998767,False,False
+BFA,Burkina Faso,2012,710.0,3.724999905,False,False
+BDI,Burundi,2012,230.0,1.220000029,False,False
+CPV,Cabo Verde,2012,3730.0,34.74,False,False
+KHM,Cambodia,2012,1110.0,4.94,False,True
+CMR,Cameroon,2012,1470.0,7.5,False,False
+CAN,Canada,2012,51080.0,83.0,False,False
+CYM,Cayman Islands,2012,51150.0,69.7,False,False
+CAF,Central African Rep.,2012,540.0,2.400000095,False,False
+TCD,Chad,2012,1310.0,2.099999905,False,False
+CHL,Chile,2012,14170.0,55.04999924,False,False
+CHN,China,2012,6010.0,42.30009842,False,False
+COL,Colombia,2012,7340.0,48.98,False,False
+COM,Comoros,2012,1510.0,5.975299835,False,False
+COG,Congo (Rep. of the),2012,3330.0,6.106699944,False,False
+COD,"Congo, Dem. Rep.",2012,370.0,1.679999948,False,False
+CRI,Costa Rica,2012,9330.0,47.5,False,False
+CIV,Cote d'Ivoire,2012,1140.0,4.400000095,False,False
+HRV,Croatia,2012,13540.0,61.93997315,False,False
+CUB,Cuba,2012,6090.0,21.20000076,False,False
+CYP,Cyprus,2012,29760.0,60.6898684,False,False
+CZE,Czech Republic,2012,19650.0,73.43000782,False,False
+DNK,Denmark,2012,61570.0,92.26001172,False,False
+DMA,Dominica,2012,7530.0,49.79999924,False,False
+DOM,Dominican Rep.,2012,5700.0,42.32,False,False
+ECU,Ecuador,2012,5320.0,35.13514645,False,False
+EGY,Egypt,2012,2630.0,26.4,False,False
+SLV,El Salvador,2012,3280.0,20.32138772,False,False
+GNQ,Equatorial Guinea,2012,11430.0,13.94320011,False,False
+EST,Estonia,2012,16910.0,78.38992593,False,False
+SWZ,Eswatini,2012,4010.0,20.78179932,False,False
+ETH,Ethiopia,2012,400.0,2.900000095,False,False
+FRO,Faroe Islands,2012,56500.0,85.33518924,False,False
+FJI,Fiji,2012,3910.0,33.74240112,False,False
+FIN,Finland,2012,48820.0,89.87999797,False,False
+FRA,France,2012,43500.0,81.44,False,False
+PYF,French Polynesia,2012,24050.0,52.87663059,False,False
+GAB,Gabon,2012,8610.0,24.0,False,False
+GMB,Gambia,2012,710.0,12.44919968,False,False
+GEO,Georgia,2012,4250.0,36.93999863,False,False
+DEU,Germany,2012,47480.0,82.34999847,False,False
+GHA,Ghana,2012,1490.0,10.6,False,False
+GRC,Greece,2012,22750.0,55.06999344,False,False
+GRD,Grenada,2012,6700.0,32.0,False,False
+GTM,Guatemala,2012,3090.0,16.0,False,False
+GIN,Guinea,2012,680.0,3.099999905,False,False
+GNB,Guinea-Bissau,2012,630.0,2.894000053,False,False
+GUY,Guyana,2012,5350.0,30.5,False,False
+HTI,Haiti,2012,1320.0,9.800000191,False,False
+HND,Honduras,2012,1950.0,18.12,False,False
+HKG,"Hong Kong SAR, China",2012,36340.0,72.9,False,False
+HUN,Hungary,2012,13080.0,70.57999815,False,False
+ISL,Iceland,2012,43190.0,96.20979955,False,False
+IND,India,2012,1460.0,11.10000038,False,False
+IDN,Indonesia,2012,3520.0,14.52,True,True
+IRN,Iran (Islamic Republic of),2012,7310.0,22.73,False,False
+IRQ,Iraq,2012,5980.0,7.099999905,False,False
+IRL,Ireland,2012,41070.0,76.91999254,False,False
+ISR,Israel,2012,33500.0,70.8,False,False
+ITA,Italy,2012,35970.0,55.82999799,False,False
+JAM,Jamaica,2012,5100.0,33.79,False,False
+JPN,Japan,2012,50540.0,79.4964,False,False
+JOR,Jordan,2012,4400.0,37.0,False,False
+KAZ,Kazakhstan,2012,9640.0,61.90662747,False,False
+KEN,Kenya,2012,1060.0,10.5,False,False
+KIR,Kiribati,2012,2630.0,10.74680042,False,False
+KOR,Korea (Rep. of),2012,26780.0,84.07,False,False
+KWT,Kuwait,2012,50830.0,70.44999695,False,False
+KGZ,Kyrgyz Republic,2012,1030.0,19.79999924,False,False
+LAO,Lao P.D.R.,2012,1350.0,10.74769974,False,True
+LVA,Latvia,2012,13430.0,73.11994377,False,False
+LBN,Lebanon,2012,8000.0,61.24980164,False,False
+LSO,Lesotho,2012,1490.0,10.0,False,False
+LBR,Liberia,2012,540.0,2.599999905,False,False
+LBY,Libya,2012,13310.0,15.19999981,False,False
+LTU,Lithuania,2012,14040.0,67.22998933,False,False
+LUX,Luxembourg,2012,87950.0,91.94992374,False,False
+MAC,"Macao SAR, China",2012,60370.0,61.31,False,False
+MDG,Madagascar,2012,470.0,2.299999952,False,False
+MWI,Malawi,2012,650.0,4.350599766,False,False
+MYS,Malaysia,2012,9980.0,65.8,False,True
+MDV,Maldives,2012,6810.0,38.93009949,False,False
+MLI,Mali,2012,830.0,2.799999952,False,False
+MLT,Malta,2012,22450.0,68.19987429,False,False
+MHL,Marshall Islands,2012,3860.0,12.5,False,False
+MRT,Mauritania,2012,1800.0,5.0,False,False
+MUS,Mauritius,2012,9700.0,35.42,False,False
+MEX,Mexico,2012,10500.0,39.75,False,False
+FSM,Micronesia,2012,3030.0,25.97439957,False,False
+MDA,Moldova,2012,3140.0,34.65000153,False,False
+MNG,Mongolia,2012,3630.0,16.4,False,False
+MNE,Montenegro,2012,6980.0,56.83878255,False,False
+MAR,Morocco,2012,3230.0,55.41605319,False,False
+MOZ,Mozambique,2012,630.0,5.0,False,False
+MMR,Myanmar,2012,1170.0,1.399999976,False,True
+NAM,Namibia,2012,5730.0,12.94139957,False,False
+NPL,Nepal,2012,750.0,11.14929962,False,False
+NLD,Netherlands,2012,52070.0,92.85999236,False,False
+NZL,New Zealand,2012,36770.0,81.64447018,False,False
+NIC,Nicaragua,2012,1700.0,13.5,False,False
+NER,Niger,2012,550.0,1.049999952,False,False
+NGA,Nigeria,2012,2360.0,16.10000038,False,False
+MKD,North Macedonia,2012,5090.0,57.44994731,False,False
+NOR,Norway,2012,99780.0,94.64997805,False,False
+OMN,Oman,2012,21960.0,60.0,False,False
+PAK,Pakistan,2012,1110.0,8.100000381,False,False
+PAN,Panama,2012,9870.0,40.30189522,False,False
+PNG,Papua New Guinea,2012,2150.0,3.5,False,False
+PRY,Paraguay,2012,5160.0,29.34,False,False
+PER,Peru,2012,5780.0,38.2,False,False
+PHL,Philippines,2012,2780.0,30.79999924,False,True
+POL,Poland,2012,13170.0,62.30999727,False,False
+PRT,Portugal,2012,21220.0,60.33999749,False,False
+PRI,Puerto Rico,2012,18550.0,68.9999826,False,False
+QAT,Qatar,2012,92750.0,69.3,False,False
+ROU,Romania,2012,9260.0,45.87999425,False,False
+RUS,Russian Federation,2012,13470.0,66.0,False,False
+RWA,Rwanda,2012,680.0,8.023900032,False,False
+KNA,Saint Kitts and Nevis,2012,17010.0,64.0,False,False
+LCA,Saint Lucia,2012,9000.0,45.865,False,False
+VCT,Saint Vincent and the Grenadines,2012,6720.0,40.0,False,False
+WSM,Samoa,2012,3590.0,12.92249966,False,False
+STP,Sao Tome and Principe,2012,1170.0,21.57239914,False,False
+SAU,Saudi Arabia,2012,27610.0,54.0,False,False
+SEN,Senegal,2012,1320.0,10.80000019,False,False
+SRB,Serbia,2012,6310.0,48.09999847,False,False
+SYC,Seychelles,2012,12540.0,47.07600021,False,False
+SLE,Sierra Leone,2012,830.0,2.5,False,False
+SGP,Singapore,2012,51710.0,72.0,False,True
+SVK,Slovak Republic,2012,17830.0,76.70999012,False,False
+SVN,Slovenia,2012,23010.0,68.34997453,False,False
+SLB,Solomon Islands,2012,1820.0,6.997399807,False,False
+SOM,Somalia,2012,280.0,1.376700044,False,False
+ZAF,South Africa,2012,8220.0,41.0,False,False
+SSD,South Sudan,2012,800.0,1.5,False,False
+ESP,Spain,2012,29710.0,69.80999994,False,False
+LKA,Sri Lanka,2012,3340.0,9.00039959,False,False
+PSE,State of Palestine,2012,3210.0,43.4,False,False
+SUR,Suriname,2012,8220.0,34.68119812,False,False
+SWE,Sweden,2012,58840.0,93.17998801,False,False
+CHE,Switzerland,2012,88060.0,85.2,False,False
+SYR,Syrian Arab Republic,2012,1980.0,24.30010033,False,False
+TJK,Tajikistan,2012,1130.0,14.51000023,False,False
+TZA,Tanzania,2012,810.0,3.950000048,False,False
+THA,Thailand,2012,5400.0,26.46,False,True
+TLS,Timor-Leste,2012,3570.0,7.0,False,True
+TGO,Togo,2012,840.0,4.0,False,False
+TON,Tonga,2012,4130.0,30.0,False,False
+TTO,Trinidad and Tobago,2012,17960.0,57.5,False,False
+TUN,Tunisia,2012,4250.0,41.4416008,False,False
+TUR,Turkiye,2012,11950.0,45.13,False,False
+TKM,Turkmenistan,2012,5040.0,7.195799828,False,False
+TUV,Tuvalu,2012,4460.0,18.70000076,False,False
+UGA,Uganda,2012,830.0,4.800000191,False,False
+UKR,Ukraine,2012,3600.0,35.27,False,False
+ARE,United Arab Emirates,2012,51180.0,84.9999915,False,False
+GBR,United Kingdom,2012,41940.0,87.47999842,False,False
+USA,United States,2012,52610.0,74.7,False,False
+URY,Uruguay,2012,14230.0,54.45376868,False,False
+UZB,Uzbekistan,2012,2460.0,23.60000038,False,False
+VUT,Vanuatu,2012,2840.0,10.59799957,False,False
+VEN,Venezuela,2012,12480.0,49.05008307,False,False
+VNM,Viet Nam,2012,1980.0,36.79999924,False,True
+YEM,Yemen,2012,1080.0,17.44650078,False,False
+ZMB,Zambia,2012,1640.0,4.099999905,False,False
+ZWE,Zimbabwe,2012,1150.0,12.0,False,False
+AFG,Afghanistan,2013,670.0,5.900000095,False,False
+ALB,Albania,2013,4690.0,51.79999924,False,False
+DZA,Algeria,2013,5970.0,22.5,False,False
+AGO,Angola,2013,5330.0,13.0,False,False
+ATG,Antigua and Barbuda,2013,14500.0,63.40000153,False,False
+ARG,Argentina,2013,12760.0,59.90000153,False,False
+ARM,Armenia,2013,3940.0,41.9,False,False
+ABW,Aruba,2013,24830.0,78.9,False,False
+AUS,Australia,2013,66360.0,83.45349717,False,False
+AUT,Austria,2013,50260.0,80.6188,False,False
+AZE,Azerbaijan,2013,7450.0,73.00000137,False,False
+BHS,Bahamas,2013,26870.0,72.0,False,False
+BHR,Bahrain,2013,25970.0,90.0000397,False,False
+BGD,Bangladesh,2013,1010.0,6.63,False,False
+BRB,Barbados,2013,19410.0,71.80000305,False,False
+BLR,Belarus,2013,7030.0,54.17,False,False
+BEL,Belgium,2013,47950.0,82.1702,False,False
+BLZ,Belize,2013,5580.0,33.59999847,False,False
+BEN,Benin,2013,1140.0,4.900000095,False,False
+BMU,Bermuda,2013,104040.0,95.3,False,False
+BTN,Bhutan,2013,2630.0,22.39999962,False,False
+BOL,Bolivia,2013,2550.0,36.99,False,False
+BIH,Bosnia and Herzegovina,2013,5170.0,48.52130127,False,False
+BWA,Botswana,2013,6950.0,30.0,False,False
+BRA,Brazil,2013,12950.0,51.04,False,False
+BRN,Brunei Darussalam,2013,44580.0,64.5,False,True
+BGR,Bulgaria,2013,7580.0,53.0615,False,False
+BFA,Burkina Faso,2013,750.0,5.0,False,False
+BDI,Burundi,2013,240.0,1.264218111,False,False
+CPV,Cabo Verde,2013,3840.0,37.5,False,False
+KHM,Cambodia,2013,1230.0,6.0,False,True
+CMR,Cameroon,2013,1530.0,10.0,False,False
+CAN,Canada,2013,52800.0,85.80000305,False,False
+CYM,Cayman Islands,2013,44990.0,71.4,False,False
+CAF,Central African Rep.,2013,360.0,2.5,False,False
+TCD,Chad,2013,1310.0,2.5,False,False
+CHL,Chile,2013,15080.0,58.0,False,False
+CHN,China,2013,6860.0,45.79999924,False,False
+COL,Colombia,2013,8010.0,51.7,False,False
+COM,Comoros,2013,1590.0,6.5,False,False
+COG,Congo (Rep. of the),2013,3560.0,6.599999905,False,False
+COD,"Congo, Dem. Rep.",2013,420.0,2.200000048,False,False
+CRI,Costa Rica,2013,9990.0,45.96,False,False
+CIV,Cote d'Ivoire,2013,1240.0,6.599999905,False,False
+HRV,Croatia,2013,13940.0,66.7476,False,False
+CUB,Cuba,2013,6640.0,27.93,False,False
+CYP,Cyprus,2013,27820.0,65.4548,False,False
+CZE,Czech Republic,2013,19600.0,74.1104,False,False
+DNK,Denmark,2013,63400.0,94.6297,False,False
+DMA,Dominica,2013,7440.0,51.0,False,False
+DOM,Dominican Rep.,2013,5940.0,45.9,False,False
+ECU,Ecuador,2013,5880.0,40.27912194,False,False
+EGY,Egypt,2013,2810.0,29.4,False,False
+SLV,El Salvador,2013,3420.0,23.1093,False,False
+GNQ,Equatorial Guinea,2013,12400.0,16.39999962,False,False
+EST,Estonia,2013,18370.0,80.0043,False,False
+SWZ,Eswatini,2013,4120.0,24.70000076,False,False
+ETH,Ethiopia,2013,450.0,4.599999905,False,False
+FRO,Faroe Islands,2013,59530.0,90.0,False,False
+FJI,Fiji,2013,4460.0,35.20000076,False,False
+FIN,Finland,2013,49390.0,91.5144,False,False
+FRA,France,2013,43950.0,81.9198,False,False
+PYF,French Polynesia,2013,24290.0,56.8,False,False
+GAB,Gabon,2013,8870.0,30.53800011,False,False
+GMB,Gambia,2013,680.0,14.0,False,False
+GEO,Georgia,2013,4680.0,43.3,False,False
+DEU,Germany,2013,48160.0,84.17,False,False
+GHA,Ghana,2013,1790.0,15.0,False,False
+GRC,Greece,2013,22030.0,59.8663,False,False
+GRD,Grenada,2013,7040.0,35.0,False,False
+GTM,Guatemala,2013,3300.0,19.70000076,False,False
+GIN,Guinea,2013,680.0,4.5,False,False
+GNB,Guinea-Bissau,2013,660.0,3.099999905,False,False
+GUY,Guyana,2013,5610.0,31.0,False,False
+HTI,Haiti,2013,1410.0,10.60000038,False,False
+HND,Honduras,2013,1990.0,17.8,False,False
+HKG,"Hong Kong SAR, China",2013,38570.0,74.2,False,False
+HUN,Hungary,2013,13560.0,72.6439,False,False
+ISL,Iceland,2013,49540.0,96.5468,False,False
+IND,India,2013,1500.0,12.30000019,False,False
+IDN,Indonesia,2013,3670.0,14.94,True,True
+IRN,Iran (Islamic Republic of),2013,7220.0,29.95,False,False
+IRQ,Iraq,2013,6620.0,9.199999809,False,False
+IRL,Ireland,2013,44170.0,78.2477,False,False
+ISR,Israel,2013,35470.0,70.25031195,False,False
+ITA,Italy,2013,35700.0,58.4593,False,False
+JAM,Jamaica,2013,5150.0,37.1,False,False
+JPN,Japan,2013,49350.0,88.21942891,False,False
+JOR,Jordan,2013,4510.0,41.4,False,False
+KAZ,Kazakhstan,2013,11490.0,63.30422443,False,False
+KEN,Kenya,2013,1130.0,13.0,False,False
+KIR,Kiribati,2013,3040.0,11.5,False,False
+KOR,Korea (Rep. of),2013,28210.0,84.77,False,False
+KWT,Kuwait,2013,53530.0,75.45999908,False,False
+KGZ,Kyrgyz Republic,2013,1180.0,23.0,False,False
+LAO,Lao P.D.R.,2013,1590.0,12.5,False,True
+LVA,Latvia,2013,14340.0,75.2344,False,False
+LBN,Lebanon,2013,7880.0,70.5,False,False
+LSO,Lesotho,2013,1440.0,15.0,False,False
+LBR,Liberia,2013,610.0,3.200000048,False,False
+LBY,Libya,2013,11960.0,16.5,False,False
+LTU,Lithuania,2013,15310.0,68.4529,False,False
+LUX,Luxembourg,2013,85160.0,93.7765,False,False
+MAC,"Macao SAR, China",2013,67830.0,65.8,False,False
+MDG,Madagascar,2013,490.0,3.0,False,False
+MWI,Malawi,2013,590.0,5.050000191,False,False
+MYS,Malaysia,2013,10590.0,57.05751226,False,True
+MDV,Maldives,2013,7050.0,44.09999847,False,False
+MLI,Mali,2013,880.0,3.5,False,False
+MLT,Malta,2013,23330.0,68.9138,False,False
+MHL,Marshall Islands,2013,4350.0,14.0,False,False
+MRT,Mauritania,2013,1890.0,6.199999809,False,False
+MUS,Mauritius,2013,10360.0,40.11682513,False,False
+MEX,Mexico,2013,10710.0,43.46,False,False
+FSM,Micronesia,2013,3090.0,27.79999924,False,False
+MDA,Moldova,2013,3620.0,37.43999863,False,False
+MNG,Mongolia,2013,4310.0,17.69998424,False,False
+MNE,Montenegro,2013,7260.0,60.31,False,False
+MAR,Morocco,2013,3350.0,56.0,False,False
+MOZ,Mozambique,2013,690.0,5.5,False,False
+MMR,Myanmar,2013,1260.0,1.799999952,False,True
+NAM,Namibia,2013,5900.0,13.89999962,False,False
+NPL,Nepal,2013,840.0,13.30000019,False,False
+NLD,Netherlands,2013,52460.0,93.9564,False,False
+NZL,New Zealand,2013,39940.0,82.77999878,False,False
+NIC,Nicaragua,2013,1760.0,15.5,False,False
+NER,Niger,2013,570.0,1.149999976,False,False
+NGA,Nigeria,2013,2600.0,19.10000038,False,False
+MKD,North Macedonia,2013,5400.0,65.24,False,False
+NOR,Norway,2013,104810.0,95.0534,False,False
+OMN,Oman,2013,22920.0,66.45,False,False
+PAK,Pakistan,2013,1210.0,9.0,False,False
+PAN,Panama,2013,10950.0,44.03,False,False
+PNG,Papua New Guinea,2013,2340.0,5.099999905,False,False
+PRY,Paraguay,2013,5970.0,36.9,False,False
+PER,Peru,2013,6410.0,39.2,False,False
+PHL,Philippines,2013,3060.0,32.70000076,False,True
+POL,Poland,2013,13290.0,62.8492,False,False
+PRT,Portugal,2013,21380.0,62.0956,False,False
+PRI,Puerto Rico,2013,18960.0,68.99999,False,False
+QAT,Qatar,2013,96070.0,85.3,False,False
+ROU,Romania,2013,9390.0,49.7645,False,False
+RUS,Russian Federation,2013,15160.0,67.97,False,False
+RWA,Rwanda,2013,700.0,9.0,False,False
+KNA,Saint Kitts and Nevis,2013,18460.0,64.59999847,False,False
+LCA,Saint Lucia,2013,8710.0,49.3871994,False,False
+VCT,Saint Vincent and the Grenadines,2013,6980.0,43.5,False,False
+WSM,Samoa,2013,3750.0,15.30000019,False,False
+STP,Sao Tome and Principe,2013,1330.0,23.0,False,False
+SAU,Saudi Arabia,2013,28620.0,60.5,False,False
+SEN,Senegal,2013,1350.0,13.10000038,False,False
+SRB,Serbia,2013,6630.0,53.45036417,False,False
+SYC,Seychelles,2013,12350.0,50.40000153,False,False
+SLE,Sierra Leone,2013,970.0,4.0,False,False
+SGP,Singapore,2013,54470.0,80.90209961,False,True
+SVK,Slovak Republic,2013,18280.0,77.8826,False,False
+SVN,Slovenia,2013,23040.0,72.6756,False,False
+SLB,Solomon Islands,2013,2090.0,8.0,False,False
+SOM,Somalia,2013,340.0,1.5,False,False
+ZAF,South Africa,2013,7930.0,46.5,False,False
+SSD,South Sudan,2013,1080.0,2.200000048,False,False
+ESP,Spain,2013,29400.0,71.635,False,False
+LKA,Sri Lanka,2013,3630.0,10.04440022,False,False
+PSE,State of Palestine,2013,3470.0,46.59999847,False,False
+SUR,Suriname,2013,8610.0,37.40000153,False,False
+SWE,Sweden,2013,61530.0,94.7836,False,False
+CHE,Switzerland,2013,92160.0,86.34,False,False
+SYR,Syrian Arab Republic,2013,1270.0,26.20000076,False,False
+TJK,Tajikistan,2013,1300.0,16.0,False,False
+TZA,Tanzania,2013,880.0,4.400000095,False,False
+THA,Thailand,2013,5580.0,28.94,False,True
+TLS,Timor-Leste,2013,3190.0,11.0,False,True
+TGO,Togo,2013,890.0,4.5,False,False
+TON,Tonga,2013,4330.0,32.75400162,False,False
+TTO,Trinidad and Tobago,2013,20110.0,59.90000153,False,False
+TUN,Tunisia,2013,4300.0,43.79999924,False,False
+TUR,Turkiye,2013,12640.0,46.25,False,False
+TKM,Turkmenistan,2013,5880.0,9.600000381,False,False
+TUV,Tuvalu,2013,5580.0,21.20000076,False,False
+UGA,Uganda,2013,810.0,5.099999905,False,False
+UKR,Ukraine,2013,3900.0,40.954129,False,False
+ARE,United Arab Emirates,2013,53780.0,88.0,False,False
+GBR,United Kingdom,2013,42960.0,89.8441,False,False
+USA,United States,2013,53750.0,71.4,False,False
+URY,Uruguay,2013,16480.0,57.69,False,False
+UZB,Uzbekistan,2013,2780.0,26.79999924,False,False
+VUT,Vanuatu,2013,3160.0,11.30000019,False,False
+VEN,Venezuela,2013,10330.0,54.90000153,False,False
+VNM,Viet Nam,2013,2200.0,38.5,False,True
+YEM,Yemen,2013,1230.0,20.0,False,False
+ZMB,Zambia,2013,1710.0,4.8,False,False
+ZWE,Zimbabwe,2013,1220.0,15.5,False,False
+AFG,Afghanistan,2014,640.0,7.0,False,False
+ALB,Albania,2014,4750.0,54.29999924,False,False
+DZA,Algeria,2014,6030.0,29.5,False,False
+AGO,Angola,2014,5430.0,21.36234076,False,False
+ATG,Antigua and Barbuda,2014,14830.0,67.77999878,False,False
+ARG,Argentina,2014,12240.0,64.69999695,False,False
+ARM,Armenia,2014,4000.0,54.62280586,False,False
+ABW,Aruba,2014,25260.0,83.78,False,False
+AUS,Australia,2014,65500.0,84.0,False,False
+AUT,Austria,2014,49960.0,80.99582496,False,False
+AZE,Azerbaijan,2014,7740.0,75.00001564,False,False
+BHS,Bahamas,2014,27220.0,76.91999817,False,False
+BHR,Bahrain,2014,25480.0,90.50313348,False,False
+BGD,Bangladesh,2014,1080.0,9.052900314,False,False
+BRB,Barbados,2014,19620.0,71.92459869,False,False
+BLR,Belarus,2014,7620.0,59.01631871,False,False
+BEL,Belgium,2014,48050.0,85.00123795,False,False
+BLZ,Belize,2014,5670.0,38.70000076,False,False
+BEN,Benin,2014,1180.0,6.0,False,False
+BMU,Bermuda,2014,102450.0,96.8,False,False
+BTN,Bhutan,2014,2670.0,30.29999924,False,False
+BOL,Bolivia,2014,2800.0,34.60162023,False,False
+BIH,Bosnia and Herzegovina,2014,5180.0,49.91770172,False,False
+BWA,Botswana,2014,6990.0,36.74474744,False,False
+BRA,Brazil,2014,12280.0,54.55100188,False,False
+BRN,Brunei Darussalam,2014,42370.0,68.76999664,False,True
+BGR,Bulgaria,2014,7780.0,55.49037663,False,False
+BFA,Burkina Faso,2014,730.0,6.0,False,False
+BDI,Burundi,2014,240.0,1.042392126,False,False
+CPV,Cabo Verde,2014,3750.0,40.25999832,False,False
+KHM,Cambodia,2014,1330.0,14.0,False,True
+CMR,Cameroon,2014,1570.0,16.21487223,False,False
+CAN,Canada,2014,52200.0,87.12000275,False,False
+CYM,Cayman Islands,2014,43420.0,74.1,False,False
+CAF,Central African Rep.,2014,380.0,2.700000048,False,False
+TCD,Chad,2014,1260.0,2.900000095,False,False
+CHL,Chile,2014,14690.0,61.11000061,False,False
+CHN,China,2014,7600.0,47.90000153,False,False
+COL,Colombia,2014,8280.0,52.56813654,False,False
+COM,Comoros,2014,1590.0,6.980000019,False,False
+COG,Congo (Rep. of the),2014,3800.0,7.110000134,False,False
+COD,"Congo, Dem. Rep.",2014,450.0,3.0,False,False
+CRI,Costa Rica,2014,10410.0,53.0,False,False
+CIV,Cote d'Ivoire,2014,1860.0,10.0,False,False
+HRV,Croatia,2014,13820.0,68.56789925,False,False
+CUB,Cuba,2014,6850.0,29.07018437,False,False
+CYP,Cyprus,2014,26350.0,69.32869671,False,False
+CZE,Czech Republic,2014,19080.0,74.23171164,False,False
+DNK,Denmark,2014,63650.0,95.99350538,False,False
+DMA,Dominica,2014,7670.0,57.5,False,False
+DOM,Dominican Rep.,2014,6230.0,49.58000183,False,False
+ECU,Ecuador,2014,6190.0,45.59039067,False,False
+EGY,Egypt,2014,3000.0,33.89460391,False,False
+SLV,El Salvador,2014,3480.0,24.76171215,False,False
+GNQ,Equatorial Guinea,2014,12620.0,18.86000061,False,False
+EST,Estonia,2014,19210.0,84.24152803,False,False
+SWZ,Eswatini,2014,3890.0,25.0,False,False
+ETH,Ethiopia,2014,530.0,7.699999809,False,False
+FRO,Faroe Islands,2014,60440.0,93.3,False,False
+FJI,Fiji,2014,4740.0,37.40000153,False,False
+FIN,Finland,2014,49210.0,86.53039275,False,False
+FRA,France,2014,43470.0,83.75109967,False,False
+PYF,French Polynesia,2014,23990.0,60.68,False,False
+GAB,Gabon,2014,8880.0,38.07120132,False,False
+GMB,Gambia,2014,600.0,15.56000042,False,False
+GEO,Georgia,2014,4850.0,49.10245471,False,False
+DEU,Germany,2014,48610.0,86.19370066,False,False
+GHA,Ghana,2014,1830.0,19.0,False,False
+GRC,Greece,2014,21670.0,63.20734048,False,False
+GRD,Grenada,2014,7170.0,51.6,False,False
+GTM,Guatemala,2014,3460.0,23.39999962,False,False
+GIN,Guinea,2014,730.0,6.400000095,False,False
+GNB,Guinea-Bissau,2014,660.0,3.319999933,False,False
+GUY,Guyana,2014,5640.0,32.0,False,False
+HTI,Haiti,2014,1460.0,11.39999962,False,False
+HND,Honduras,2014,1980.0,23.0,False,False
+HKG,"Hong Kong SAR, China",2014,40240.0,79.86627043,False,False
+HUN,Hungary,2014,13630.0,75.65319745,False,False
+ISL,Iceland,2014,50800.0,98.15802331,False,False
+IND,India,2014,1540.0,13.5,False,False
+IDN,Indonesia,2014,3570.0,17.14315984,True,True
+IRN,Iran (Islamic Republic of),2014,6660.0,39.35361451,False,False
+IRQ,Iraq,2014,6440.0,11.64532673,False,False
+IRL,Ireland,2014,47580.0,83.49172234,False,False
+ISR,Israel,2014,37000.0,75.01775316,False,False
+ITA,Italy,2014,35370.0,55.63846022,False,False
+JAM,Jamaica,2014,5060.0,40.4027351,False,False
+JPN,Japan,2014,45180.0,89.10683302,False,False
+JOR,Jordan,2014,4380.0,46.2,False,False
+KAZ,Kazakhstan,2014,11720.0,66.0,False,False
+KEN,Kenya,2014,1250.0,16.5,False,False
+KIR,Kiribati,2014,3260.0,12.25,False,False
+KOR,Korea (Rep. of),2014,29480.0,87.55682649,False,False
+KWT,Kuwait,2014,51350.0,78.69999695,False,False
+KGZ,Kyrgyz Republic,2014,1230.0,28.29999924,False,False
+LAO,Lao P.D.R.,2014,1810.0,14.26000023,False,True
+LVA,Latvia,2014,14810.0,75.82610414,False,False
+LBN,Lebanon,2014,7440.0,73.0,False,False
+LSO,Lesotho,2014,1330.0,22.0,False,False
+LBR,Liberia,2014,620.0,5.409999847,False,False
+LBY,Libya,2014,9130.0,17.76000023,False,False
+LTU,Lithuania,2014,16020.0,72.13353786,False,False
+LUX,Luxembourg,2014,86760.0,94.67020528,False,False
+MAC,"Macao SAR, China",2014,68530.0,69.78094922,False,False
+MDG,Madagascar,2014,500.0,3.700000048,False,False
+MWI,Malawi,2014,530.0,5.829999924,False,False
+MYS,Malaysia,2014,10840.0,63.66542588,False,True
+MDV,Maldives,2014,7720.0,49.27999878,False,False
+MLI,Mali,2014,910.0,7.0,False,False
+MLT,Malta,2014,24590.0,73.11411578,False,False
+MHL,Marshall Islands,2014,4560.0,16.79999924,False,False
+MRT,Mauritania,2014,1790.0,11.80000019,False,False
+MUS,Mauritius,2014,10720.0,44.80327537,False,False
+MEX,Mexico,2014,10950.0,44.38569627,False,False
+FSM,Micronesia,2014,3090.0,29.64999962,False,False
+MDA,Moldova,2014,3730.0,66.9999982,False,False
+MNG,Mongolia,2014,4180.0,19.94244743,False,False
+MNE,Montenegro,2014,7280.0,63.88688401,False,False
+MAR,Morocco,2014,3330.0,56.77463792,False,False
+MOZ,Mozambique,2014,710.0,6.0,False,False
+MMR,Myanmar,2014,1260.0,7.400000095,False,True
+NAM,Namibia,2014,5690.0,14.84000015,False,False
+NPL,Nepal,2014,860.0,15.43999958,False,False
+NLD,Netherlands,2014,52220.0,91.66666667,False,False
+NZL,New Zealand,2014,41700.0,84.0,False,False
+NIC,Nicaragua,2014,1850.0,17.60000038,False,False
+NER,Niger,2014,590.0,1.248675689,False,False
+NGA,Nigeria,2014,2870.0,21.0,False,False
+MKD,North Macedonia,2014,5630.0,68.05848154,False,False
+NOR,Norway,2014,105010.0,96.30050982,False,False
+OMN,Oman,2014,22060.0,70.22000122,False,False
+PAK,Pakistan,2014,1250.0,10.0,False,False
+PAN,Panama,2014,11520.0,44.92381526,False,False
+PNG,Papua New Guinea,2014,2790.0,6.5,False,False
+PRY,Paraguay,2014,6280.0,43.00737501,False,False
+PER,Peru,2014,6520.0,40.24465601,False,False
+PHL,Philippines,2014,3220.0,34.70000076,False,True
+POL,Poland,2014,13540.0,66.59873606,False,False
+PRT,Portugal,2014,21210.0,64.59242006,False,False
+PRI,Puerto Rico,2014,19010.0,76.13385972,False,False
+QAT,Qatar,2014,91410.0,91.48999786,False,False
+ROU,Romania,2014,9760.0,54.07832066,False,False
+RUS,Russian Federation,2014,14590.0,70.51756826,False,False
+RWA,Rwanda,2014,710.0,10.60000038,False,False
+KNA,Saint Kitts and Nevis,2014,18850.0,65.38179779,False,False
+LCA,Saint Lucia,2014,9040.0,53.17969894,False,False
+VCT,Saint Vincent and the Grenadines,2014,6860.0,47.4,False,False
+WSM,Samoa,2014,3830.0,21.20000076,False,False
+STP,Sao Tome and Principe,2014,1440.0,24.40999985,False,False
+SAU,Saudi Arabia,2014,29080.0,64.71365737,False,False
+SEN,Senegal,2014,1370.0,17.70000076,False,False
+SRB,Serbia,2014,6450.0,62.07508046,False,False
+SYC,Seychelles,2014,13340.0,51.25469971,False,False
+SLE,Sierra Leone,2014,970.0,6.057300091,False,False
+SGP,Singapore,2014,56380.0,79.02923586,False,True
+SVK,Slovak Republic,2014,18380.0,79.98430177,False,False
+SVN,Slovenia,2014,23400.0,71.58625159,False,False
+SLB,Solomon Islands,2014,2090.0,9.0,False,False
+SOM,Somalia,2014,410.0,1.629999995,False,False
+ZAF,South Africa,2014,7230.0,49.0,False,False
+SSD,South Sudan,2014,1170.0,2.599999905,False,False
+ESP,Spain,2014,29350.0,76.18670898,False,False
+LKA,Sri Lanka,2014,3810.0,10.50000262,False,False
+PSE,State of Palestine,2014,3560.0,53.66519979,False,False
+SUR,Suriname,2014,8900.0,40.08000183,False,False
+SWE,Sweden,2014,61350.0,92.5236065,False,False
+CHE,Switzerland,2014,90030.0,83.61725126,False,False
+SYR,Syrian Arab Republic,2014,1070.0,28.09000015,False,False
+TJK,Tajikistan,2014,1320.0,17.48999977,False,False
+TZA,Tanzania,2014,970.0,7.0,False,False
+THA,Thailand,2014,5620.0,34.88605358,False,True
+TLS,Timor-Leste,2014,2700.0,17.5,False,True
+TGO,Togo,2014,910.0,5.699999809,False,False
+TON,Tonga,2014,4360.0,35.95439911,False,False
+TTO,Trinidad and Tobago,2014,20620.0,62.40000153,False,False
+TUN,Tunisia,2014,4310.0,46.15999985,False,False
+TUR,Turkiye,2014,12670.0,51.03736655,False,False
+TKM,Turkmenistan,2014,6480.0,12.19999981,False,False
+TUV,Tuvalu,2014,4790.0,24.10000038,False,False
+UGA,Uganda,2014,830.0,5.400000095,False,False
+UKR,Ukraine,2014,3500.0,46.23597546,False,False
+ARE,United Arab Emirates,2014,53360.0,90.40001071,False,False
+GBR,United Kingdom,2014,44780.0,91.61330092,False,False
+USA,United States,2014,55520.0,73.0,False,False
+URY,Uruguay,2014,17140.0,61.46249517,False,False
+UZB,Uzbekistan,2014,3000.0,35.5,False,False
+VUT,Vanuatu,2014,3330.0,18.79999924,False,False
+VEN,Venezuela,2014,8380.0,57.0,False,False
+VNM,Viet Nam,2014,2390.0,41.0,False,True
+YEM,Yemen,2014,1250.0,22.54999924,False,False
+ZMB,Zambia,2014,1740.0,6.5,False,False
+ZWE,Zimbabwe,2014,1270.0,16.36473996,False,False
+AFG,Afghanistan,2015,590.0,8.260000229,False,False
+ALB,Albania,2015,4660.0,56.90000153,False,False
+DZA,Algeria,2015,5390.0,38.20000076,False,False
+AGO,Angola,2015,4450.0,22.0,False,False
+ATG,Antigua and Barbuda,2015,14550.0,70.0,False,False
+ARG,Argentina,2015,12500.0,68.04306411,False,False
+ARM,Armenia,2015,3910.0,59.10083377,False,False
+ABW,Aruba,2015,25430.0,88.66122693,False,False
+AUS,Australia,2015,60780.0,84.56051491,False,False
+AUT,Austria,2015,47190.0,83.94014193,False,False
+AZE,Azerbaijan,2015,6610.0,77.0,False,False
+BHS,Bahamas,2015,27620.0,78.0,False,False
+BHR,Bahrain,2015,23640.0,93.4783008,False,False
+BGD,Bangladesh,2015,1200.0,12.36880016,False,False
+BRB,Barbados,2015,19280.0,72.04940033,False,False
+BLR,Belarus,2015,6740.0,62.23036091,False,False
+BEL,Belgium,2015,45520.0,85.05294175,False,False
+BLZ,Belize,2015,5790.0,41.59000015,False,False
+BEN,Benin,2015,1100.0,11.25500011,False,False
+BMU,Bermuda,2015,103940.0,98.32360965,False,False
+BTN,Bhutan,2015,2740.0,39.79999924,False,False
+BOL,Bolivia,2015,2920.0,37.48681763,False,False
+BIH,Bosnia and Herzegovina,2015,5140.0,52.59999847,False,False
+BWA,Botswana,2015,6140.0,38.89379883,False,False
+BRA,Brazil,2015,10330.0,58.32795173,False,False
+BRN,Brunei Darussalam,2015,38180.0,71.19999695,False,True
+BGR,Bulgaria,2015,7530.0,56.65625161,False,False
+BFA,Burkina Faso,2015,680.0,6.545700073,False,False
+BDI,Burundi,2015,240.0,2.0,False,False
+CPV,Cabo Verde,2015,3620.0,42.68301416,False,False
+KHM,Cambodia,2015,1430.0,6.43319107,False,True
+CMR,Cameroon,2015,1530.0,18.29999924,False,False
+CAN,Canada,2015,47580.0,90.0,False,False
+CYM,Cayman Islands,2015,44430.0,77.0,False,False
+CAF,Central African Rep.,2015,390.0,2.900000095,False,False
+TCD,Chad,2015,1130.0,3.5,False,False
+CHL,Chile,2015,14080.0,76.62959195,False,False
+CHN,China,2015,8040.0,50.29999924,False,False
+COL,Colombia,2015,7420.0,55.90497251,False,False
+COM,Comoros,2015,1480.0,7.459199905,False,False
+COG,Congo (Rep. of the),2015,3080.0,7.616000175,False,False
+COD,"Congo, Dem. Rep.",2015,460.0,3.799999952,False,False
+CRI,Costa Rica,2015,10770.0,59.76295014,False,False
+CIV,Cote d'Ivoire,2015,1880.0,38.44000017,False,False
+HRV,Croatia,2015,13570.0,69.84503592,False,False
+CUB,Cuba,2015,7270.0,37.30509742,False,False
+CYP,Cyprus,2015,25650.0,71.71574092,False,False
+CZE,Czech Republic,2015,18340.0,75.6688387,False,False
+DNK,Denmark,2015,60350.0,96.33050162,False,False
+DJI,Djibouti,2015,2280.0,22.89999962,False,False
+DMA,Dominica,2015,7510.0,65.0,False,False
+DOM,Dominican Rep.,2015,6470.0,54.21576634,False,False
+ECU,Ecuador,2015,5970.0,48.94043379,False,False
+EGY,Egypt,2015,3100.0,37.81938343,False,False
+SLV,El Salvador,2015,3520.0,26.80260496,False,False
+GNQ,Equatorial Guinea,2015,9920.0,21.31999969,False,False
+EST,Estonia,2015,18900.0,88.4097035,False,False
+SWZ,Eswatini,2015,3540.0,25.64299965,False,False
+ETH,Ethiopia,2015,570.0,13.85517556,False,False
+FRO,Faroe Islands,2015,57670.0,94.2,False,False
+FJI,Fiji,2015,4820.0,42.5,False,False
+FIN,Finland,2015,46860.0,86.42213333,False,False
+FRA,France,2015,41130.0,78.00603771,False,False
+PYF,French Polynesia,2015,23060.0,64.56020975,False,False
+GAB,Gabon,2015,7610.0,45.78450012,False,False
+GMB,Gambia,2015,590.0,17.59950066,False,False
+GEO,Georgia,2015,4500.0,47.56975964,False,False
+DEU,Germany,2015,46590.0,87.58979935,False,False
+GHA,Ghana,2015,1880.0,23.0,False,False
+GRC,Greece,2015,19920.0,66.83495949,False,False
+GRD,Grenada,2015,7410.0,52.5,False,False
+GTM,Guatemala,2015,3610.0,28.80590057,False,False
+GIN,Guinea,2015,740.0,9.199999809,False,False
+GNB,Guinea-Bissau,2015,670.0,6.099999905,False,False
+GUY,Guyana,2015,5530.0,34.0,False,False
+HTI,Haiti,2015,1430.0,14.19999981,False,False
+HND,Honduras,2015,2030.0,27.13954548,False,False
+HKG,"Hong Kong SAR, China",2015,41180.0,84.94835296,False,False
+HUN,Hungary,2015,13310.0,72.83473703,False,False
+ISL,Iceland,2015,53170.0,98.19999695,False,False
+IND,India,2015,1580.0,14.89999962,False,False
+IDN,Indonesia,2015,3390.0,22.0627426,True,True
+IRN,Iran (Islamic Republic of),2015,5460.0,45.33497615,False,False
+IRQ,Iraq,2015,5460.0,15.21440029,False,False
+IRL,Ireland,2015,52340.0,83.49479167,False,False
+ISR,Israel,2015,36900.0,77.35208966,False,False
+ITA,Italy,2015,33460.0,58.14173496,False,False
+JAM,Jamaica,2015,4940.0,42.22122119,False,False
+JPN,Japan,2015,40140.0,91.05802839,False,False
+JOR,Jordan,2015,4220.0,54.22000122,False,False
+KAZ,Kazakhstan,2015,11040.0,70.8299336,False,False
+KEN,Kenya,2015,1320.0,16.58785485,False,False
+KIR,Kiribati,2015,3490.0,14.89999962,False,False
+KOR,Korea (Rep. of),2015,30130.0,89.8962558,False,False
+KWT,Kuwait,2015,41830.0,82.0,False,False
+KGZ,Kyrgyz Republic,2015,1160.0,30.24699974,False,False
+LAO,Lao P.D.R.,2015,1960.0,18.20000076,False,True
+LVA,Latvia,2015,14580.0,79.20058292,False,False
+LBN,Lebanon,2015,7360.0,74.0,False,False
+LSO,Lesotho,2015,1280.0,25.0,False,False
+LBR,Liberia,2015,620.0,10.0,False,False
+LBY,Libya,2015,8370.0,25.0,False,False
+LTU,Lithuania,2015,15220.0,71.37805901,False,False
+LUX,Luxembourg,2015,73530.0,96.37671417,False,False
+MAC,"Macao SAR, China",2015,57990.0,77.60013186,False,False
+MDG,Madagascar,2015,470.0,4.173999786,False,False
+MWI,Malawi,2015,510.0,6.0,False,False
+MYS,Malaysia,2015,10350.0,71.06406781,False,True
+MDV,Maldives,2015,8210.0,54.4620018,False,False
+MLI,Mali,2015,890.0,10.32999992,False,False
+MLT,Malta,2015,25470.0,75.96001898,False,False
+MHL,Marshall Islands,2015,4980.0,19.28240013,False,False
+MRT,Mauritania,2015,1680.0,17.60000038,False,False
+MUS,Mauritius,2015,10660.0,50.13931848,False,False
+MEX,Mexico,2015,10580.0,57.43104299,False,False
+FSM,Micronesia,2015,3460.0,31.50110054,False,False
+MDA,Moldova,2015,3290.0,69.00000447,False,False
+MNG,Mongolia,2015,3770.0,22.50000413,False,False
+MNE,Montenegro,2015,7150.0,68.11978601,False,False
+MAR,Morocco,2015,3300.0,57.07999935,False,False
+MOZ,Mozambique,2015,670.0,6.5,False,False
+MMR,Myanmar,2015,1230.0,10.89999962,False,True
+NAM,Namibia,2015,5180.0,25.68790054,False,False
+NPL,Nepal,2015,870.0,17.58160019,False,False
+NLD,Netherlands,2015,49670.0,91.72413793,False,False
+NZL,New Zealand,2015,40660.0,85.19999695,False,False
+NIC,Nicaragua,2015,1910.0,19.70429993,False,False
+NER,Niger,2015,560.0,2.476200104,False,False
+NGA,Nigeria,2015,2760.0,22.51420021,False,False
+MKD,North Macedonia,2015,5550.0,70.38020308,False,False
+NOR,Norway,2015,93290.0,96.81032569,False,False
+OMN,Oman,2015,20560.0,73.52999878,False,False
+PAK,Pakistan,2015,1280.0,11.0,False,False
+PAN,Panama,2015,12570.0,51.20542499,False,False
+PNG,Papua New Guinea,2015,2520.0,7.900000095,False,False
+PRY,Paraguay,2015,6100.0,49.71630466,False,False
+PER,Peru,2015,6340.0,40.85260091,False,False
+PHL,Philippines,2015,3280.0,36.90000153,False,True
+POL,Poland,2015,13320.0,67.99698716,False,False
+PRT,Portugal,2015,20450.0,68.63286148,False,False
+PRI,Puerto Rico,2015,19080.0,63.46633538,False,False
+QAT,Qatar,2015,80090.0,92.88482645,False,False
+ROU,Romania,2015,9610.0,55.76315563,False,False
+RUS,Russian Federation,2015,11740.0,70.09924123,False,False
+RWA,Rwanda,2015,720.0,12.45600033,False,False
+KNA,Saint Kitts and Nevis,2015,18670.0,66.17310333,False,False
+LCA,Saint Lucia,2015,9020.0,57.26330185,False,False
+VCT,Saint Vincent and the Grenadines,2015,7110.0,49.40000153,False,False
+STP,Sao Tome and Principe,2015,1400.0,25.81999969,False,False
+SAU,Saudi Arabia,2015,26580.0,69.6162358,False,False
+SEN,Senegal,2015,1320.0,21.70000076,False,False
+SRB,Serbia,2015,6210.0,65.3170254,False,False
+SYC,Seychelles,2015,14750.0,54.25960159,False,False
+SLE,Sierra Leone,2015,950.0,6.344399929,False,False
+SGP,Singapore,2015,53160.0,79.012957,False,True
+SVK,Slovak Republic,2015,17800.0,77.63468203,False,False
+SVN,Slovenia,2015,22080.0,73.09865997,False,False
+SLB,Solomon Islands,2015,2010.0,10.00049973,False,False
+SOM,Somalia,2015,440.0,1.75999999,False,False
+ZAF,South Africa,2015,6450.0,51.91910172,False,False
+SSD,South Sudan,2015,1050.0,3.0,False,False
+ESP,Spain,2015,28700.0,78.68963187,False,False
+LKA,Sri Lanka,2015,3920.0,15.26249981,False,False
+PSE,State of Palestine,2015,3670.0,56.70000076,False,False
+SDN,Sudan,2015,1180.0,12.0,False,False
+SUR,Suriname,2015,8550.0,42.76380157,False,False
+SWE,Sweden,2015,57900.0,90.61019664,False,False
+CHE,Switzerland,2015,88150.0,87.4790556,False,False
+SYR,Syrian Arab Republic,2015,900.0,29.97979927,False,False
+TJK,Tajikistan,2015,1230.0,18.97999954,False,False
+TZA,Tanzania,2015,970.0,10.0,False,False
+THA,Thailand,2015,5560.0,39.31612674,False,True
+TLS,Timor-Leste,2015,2180.0,18.60000038,False,True
+TGO,Togo,2015,910.0,7.119999886,False,False
+TON,Tonga,2015,4220.0,38.65129852,False,False
+TTO,Trinidad and Tobago,2015,20650.0,65.09999847,False,False
+TUN,Tunisia,2015,4130.0,46.49999434,False,False
+TUR,Turkiye,2015,12080.0,53.74497914,False,False
+TKM,Turkmenistan,2015,6300.0,14.99680042,False,False
+TUV,Tuvalu,2015,5650.0,27.29999924,False,False
+UGA,Uganda,2015,850.0,5.699999809,False,False
+UKR,Ukraine,2015,2760.0,48.88464368,False,False
+ARE,United Arab Emirates,2015,49990.0,90.5,False,False
+GBR,United Kingdom,2015,44630.0,92.00029987,False,False
+USA,United States,2015,56320.0,74.55420245,False,False
+URY,Uruguay,2015,17070.0,64.5707871,False,False
+UZB,Uzbekistan,2015,3170.0,42.79999924,False,False
+VUT,Vanuatu,2015,3400.0,22.35140038,False,False
+VEN,Venezuela,2015,5280.0,58.0,False,False
+VNM,Viet Nam,2015,2460.0,45.0,False,True
+YEM,Yemen,2015,1030.0,24.08539963,False,False
+ZMB,Zambia,2015,1530.0,8.8,False,False
+ZWE,Zimbabwe,2015,1330.0,22.74279976,False,False
+AFG,Afghanistan,2016,560.0,11.0,False,False
+ALB,Albania,2016,4670.0,59.59999847,False,False
+DZA,Algeria,2016,4920.0,42.94549942,False,False
+AGO,Angola,2016,2960.0,23.20000076,False,False
+ATG,Antigua and Barbuda,2016,15080.0,70.27159882,False,False
+ARG,Argentina,2016,12130.0,70.96898082,False,False
+ARM,Armenia,2016,3690.0,64.34602977,False,False
+ABW,Aruba,2016,25560.0,93.54245387,False,False
+AUS,Australia,2016,54330.0,86.54000092,False,False
+AUT,Austria,2016,45980.0,84.32374257,False,False
+AZE,Azerbaijan,2016,4790.0,78.2,False,False
+BHS,Bahamas,2016,27820.0,80.0,False,False
+BHR,Bahrain,2016,22720.0,97.9999807,False,False
+BGD,Bangladesh,2016,1400.0,16.89909935,False,False
+BRB,Barbados,2016,19300.0,71.57299805,False,False
+BLR,Belarus,2016,5640.0,71.11304576,False,False
+BEL,Belgium,2016,43240.0,86.51647666,False,False
+BLZ,Belize,2016,5640.0,44.57569885,False,False
+BEN,Benin,2016,1040.0,14.5,False,False
+BMU,Bermuda,2016,105430.0,98.0,False,False
+BTN,Bhutan,2016,2880.0,46.50320053,False,False
+BOL,Bolivia,2016,3000.0,39.69749832,False,False
+BIH,Bosnia and Herzegovina,2016,5070.0,60.25653543,False,False
+BWA,Botswana,2016,6060.0,41.16859818,False,False
+BRA,Brazil,2016,9050.0,60.87254007,False,False
+BRN,Brunei Darussalam,2016,32570.0,90.0,False,True
+BGR,Bulgaria,2016,7490.0,59.82554766,False,False
+BFA,Burkina Faso,2016,650.0,7.140999794,False,False
+BDI,Burundi,2016,240.0,2.200000048,False,False
+CPV,Cabo Verde,2016,3580.0,50.32281787,False,False
+KHM,Cambodia,2016,1550.0,32.39845171,False,True
+CMR,Cameroon,2016,1470.0,20.60000038,False,False
+CAN,Canada,2016,43900.0,91.16000366,False,False
+CYM,Cayman Islands,2016,47830.0,79.0,False,False
+CAF,Central African Rep.,2016,400.0,3.099999905,False,False
+TCD,Chad,2016,940.0,5.800000191,False,False
+CHL,Chile,2016,13310.0,83.55858602,False,False
+CHN,China,2016,8360.0,53.2,False,False
+COL,Colombia,2016,6560.0,58.13649357,False,False
+COM,Comoros,2016,1410.0,7.938300133,False,False
+COG,Congo (Rep. of the),2016,2260.0,8.121899605,False,False
+COD,"Congo, Dem. Rep.",2016,460.0,10.1,False,False
+CRI,Costa Rica,2016,11170.0,65.88044919,False,False
+CIV,Cote d'Ivoire,2016,1880.0,41.20781493,False,False
+HRV,Croatia,2016,13090.0,72.69726967,False,False
+CUB,Cuba,2016,7530.0,42.97867519,False,False
+CUW,Curacao,2016,18260.0,61.85551074,False,False
+CYP,Cyprus,2016,24400.0,75.9002054,False,False
+CZE,Czech Republic,2016,17660.0,76.4811987,False,False
+DNK,Denmark,2016,57830.0,96.96778525,False,False
+DJI,Djibouti,2016,2370.0,30.79999924,False,False
+DMA,Dominica,2016,8000.0,67.02999878,False,False
+DOM,Dominican Rep.,2016,6750.0,63.87086474,False,False
+ECU,Ecuador,2016,5750.0,54.06292473,False,False
+EGY,Egypt,2016,3200.0,41.24806709,False,False
+SLV,El Salvador,2016,3600.0,28.99710083,False,False
+GNQ,Equatorial Guinea,2016,6970.0,23.78000069,False,False
+EST,Estonia,2016,18640.0,87.24023275,False,False
+SWZ,Eswatini,2016,3270.0,28.56999969,False,False
+ETH,Ethiopia,2016,620.0,15.36692386,False,False
+FRO,Faroe Islands,2016,57410.0,95.10868167,False,False
+FJI,Fiji,2016,5010.0,49.41999817,False,False
+FIN,Finland,2016,45160.0,87.70364996,False,False
+FRA,France,2016,39020.0,79.26981132,False,False
+PYF,French Polynesia,2016,22170.0,68.44041949,False,False
+GAB,Gabon,2016,7180.0,48.0522995,False,False
+GMB,Gambia,2016,590.0,19.90640068,False,False
+GEO,Georgia,2016,4180.0,58.45928961,False,False
+DEU,Germany,2016,45340.0,84.16520664,False,False
+GHA,Ghana,2016,1760.0,28.0,False,False
+GRC,Greece,2016,18500.0,69.08791547,False,False
+GRD,Grenada,2016,8000.0,53.29999924,False,False
+GTM,Guatemala,2016,3760.0,34.50930023,False,False
+GIN,Guinea,2016,760.0,13.10000038,False,False
+GNB,Guinea-Bissau,2016,670.0,13.80000019,False,False
+GUY,Guyana,2016,5610.0,35.65999985,False,False
+HTI,Haiti,2016,1380.0,22.79999924,False,False
+HND,Honduras,2016,2090.0,29.52821808,False,False
+HKG,"Hong Kong SAR, China",2016,42970.0,87.47941467,False,False
+HUN,Hungary,2016,13230.0,79.25941213,False,False
+ISL,Iceland,2016,59210.0,98.23999786,False,False
+IND,India,2016,1670.0,16.5,False,False
+IDN,Indonesia,2016,3370.0,25.4473537,True,True
+IRN,Iran (Islamic Republic of),2016,5530.0,53.22677167,False,False
+IRQ,Iraq,2016,5060.0,19.87719917,False,False
+IRL,Ireland,2016,52880.0,83.5,False,False
+ISR,Israel,2016,37240.0,79.65312418,False,False
+ITA,Italy,2016,32400.0,61.32425277,False,False
+JAM,Jamaica,2016,4990.0,44.36685637,False,False
+JPN,Japan,2016,39220.0,93.18272128,False,False
+JOR,Jordan,2016,4200.0,56.15000153,False,False
+KAZ,Kazakhstan,2016,8500.0,74.58772647,False,False
+KEN,Kenya,2016,1490.0,16.6,False,False
+KIR,Kiribati,2016,2990.0,19.41939926,False,False
+KOR,Korea (Rep. of),2016,30850.0,92.84302568,False,False
+KWT,Kuwait,2016,34920.0,85.59999847,False,False
+KGZ,Kyrgyz Republic,2016,1090.0,40.52619934,False,False
+LAO,Lao P.D.R.,2016,2110.0,21.87000084,False,True
+LVA,Latvia,2016,14300.0,79.84209778,False,False
+LBN,Lebanon,2016,7670.0,76.11000061,False,False
+LSO,Lesotho,2016,1240.0,32.45385695,False,False
+LBR,Liberia,2016,610.0,15.69999981,False,False
+LBY,Libya,2016,7670.0,35.0,False,False
+LTU,Lithuania,2016,14890.0,74.37664556,False,False
+LUX,Luxembourg,2016,73730.0,98.13669867,False,False
+MAC,"Macao SAR, China",2016,59680.0,81.64298546,False,False
+MDG,Madagascar,2016,450.0,4.713699818,False,False
+MWI,Malawi,2016,490.0,6.300000191,False,False
+MYS,Malaysia,2016,9800.0,78.78830993,False,True
+MDV,Maldives,2016,8720.0,59.47750092,False,False
+MLI,Mali,2016,870.0,14.0,False,False
+MLT,Malta,2016,23820.0,78.0751488,False,False
+MHL,Marshall Islands,2016,5060.0,29.78779984,False,False
+MRT,Mauritania,2016,1550.0,19.23279953,False,False
+MUS,Mauritius,2016,10650.0,52.19129944,False,False
+MEX,Mexico,2016,9740.0,59.540446,False,False
+FSM,Micronesia,2016,3400.0,33.35219955,False,False
+MDA,Moldova,2016,3170.0,70.99999911,False,False
+MNG,Mongolia,2016,3460.0,22.2657705,False,False
+MNE,Montenegro,2016,7020.0,69.88164684,False,False
+MAR,Morocco,2016,3150.0,58.27123642,False,False
+MOZ,Mozambique,2016,550.0,7.0,False,False
+MMR,Myanmar,2016,1230.0,16.0,False,True
+NAM,Namibia,2016,4580.0,31.0333004,False,False
+NPL,Nepal,2016,860.0,20.70000076,False,False
+NLD,Netherlands,2016,46960.0,90.4109589,False,False
+NZL,New Zealand,2016,39440.0,86.5,False,False
+NIC,Nicaragua,2016,1980.0,24.57180023,False,False
+NER,Niger,2016,520.0,4.322800159,False,False
+NGA,Nigeria,2016,2370.0,24.13750076,False,False
+MKD,North Macedonia,2016,5440.0,72.15681447,False,False
+NOR,Norway,2016,81840.0,97.29820367,False,False
+OMN,Oman,2016,18550.0,76.84539047,False,False
+PAK,Pakistan,2016,1360.0,12.38544676,False,False
+PAN,Panama,2016,13180.0,54.0,False,False
+PNG,Papua New Guinea,2016,2410.0,9.601499557,False,False
+PRY,Paraguay,2016,5870.0,53.40412748,False,False
+PER,Peru,2016,6130.0,45.46174069,False,False
+PHL,Philippines,2016,3350.0,39.20000076,False,True
+POL,Poland,2016,12740.0,73.3007041,False,False
+PRT,Portugal,2016,19950.0,70.42356709,False,False
+PRI,Puerto Rico,2016,19290.0,68.6438072,False,False
+QAT,Qatar,2016,69170.0,95.12466217,False,False
+ROU,Romania,2016,9460.0,59.50395129,False,False
+RUS,Russian Federation,2016,9680.0,73.09143462,False,False
+RWA,Rwanda,2016,720.0,14.63710022,False,False
+KNA,Saint Kitts and Nevis,2016,19640.0,66.97389984,False,False
+LCA,Saint Lucia,2016,9710.0,58.22259903,False,False
+VCT,Saint Vincent and the Grenadines,2016,7480.0,51.5,False,False
+STP,Sao Tome and Principe,2016,1420.0,28.0,False,False
+SAU,Saudi Arabia,2016,23940.0,74.87927469,False,False
+SEN,Senegal,2016,1270.0,25.66480064,False,False
+SRB,Serbia,2016,5920.0,67.05684137,False,False
+SYC,Seychelles,2016,15630.0,56.51470184,False,False
+SLE,Sierra Leone,2016,930.0,7.680099964,False,False
+SGP,Singapore,2016,53600.0,84.45226789,False,True
+SVK,Slovak Republic,2016,16900.0,80.47585728,False,False
+SVN,Slovenia,2016,21610.0,75.49850426,False,False
+SLB,Solomon Islands,2016,2000.0,11.00090027,False,False
+SOM,Somalia,2016,450.0,1.879999995,False,False
+ZAF,South Africa,2016,5880.0,54.0,False,False
+ESP,Spain,2016,27760.0,80.56133294,False,False
+LKA,Sri Lanka,2016,4020.0,22.19,False,False
+PSE,State of Palestine,2016,3900.0,59.90000153,False,False
+SDN,Sudan,2016,1140.0,14.09999994,False,False
+SUR,Suriname,2016,6660.0,45.40000153,False,False
+SWE,Sweden,2016,53850.0,89.65094761,False,False
+CHE,Switzerland,2016,84250.0,89.13468774,False,False
+SYR,Syrian Arab Republic,2016,750.0,31.8696003,False,False
+TJK,Tajikistan,2016,1090.0,20.46999931,False,False
+TZA,Tanzania,2016,960.0,13.50423285,False,False
+THA,Thailand,2016,5550.0,47.50496562,False,True
+TLS,Timor-Leste,2016,1730.0,21.20000076,False,True
+TGO,Togo,2016,870.0,11.31000042,False,False
+TON,Tonga,2016,4280.0,39.95000076,False,False
+TTO,Trinidad and Tobago,2016,17870.0,67.80000305,False,False
+TUN,Tunisia,2016,3930.0,49.59999484,False,False
+TUR,Turkiye,2016,11350.0,58.34773401,False,False
+TKM,Turkmenistan,2016,5890.0,17.99029922,False,False
+TUV,Tuvalu,2016,5390.0,31.0,False,False
+UGA,Uganda,2016,810.0,5.9,False,False
+UKR,Ukraine,2016,2330.0,53.0009696,False,False
+ARE,United Arab Emirates,2016,46180.0,90.60000732,False,False
+GBR,United Kingdom,2016,43310.0,94.77580063,False,False
+USA,United States,2016,56830.0,85.54442129,False,False
+URY,Uruguay,2016,16490.0,66.40000153,False,False
+UZB,Uzbekistan,2016,3230.0,46.79130173,False,False
+VEN,Venezuela,2016,3680.0,60.0,False,False
+VNM,Viet Nam,2016,2560.0,53.0,False,True
+YEM,Yemen,2016,970.0,24.57920074,False,False
+ZMB,Zambia,2016,1320.0,10.30000019,False,False
+ZWE,Zimbabwe,2016,1240.0,23.12000084,False,False
+AFG,Afghanistan,2017,530.0,13.5,False,False
+ALB,Albania,2017,4700.0,62.40000153,False,False
+DZA,Algeria,2017,4440.0,47.69110107,False,False
+AGO,Angola,2017,2440.0,26.0,False,False
+ATG,Antigua and Barbuda,2017,15860.0,70.54419708,False,False
+ARG,Argentina,2017,13070.0,74.29490687,False,False
+ARM,Armenia,2017,3900.0,64.74488433,False,False
+ABW,Aruba,2017,26460.0,97.17,False,False
+AUS,Australia,2017,51700.0,86.54504885,False,False
+AUT,Austria,2017,44800.0,87.93558659,False,False
+AZE,Azerbaijan,2017,4110.0,79.0,False,False
+BHS,Bahamas,2017,29570.0,80.59999847,False,False
+BHR,Bahrain,2017,22360.0,95.87813575,False,False
+BGD,Bangladesh,2017,1640.0,21.5,False,False
+BRB,Barbados,2017,19570.0,71.14849854,False,False
+BLR,Belarus,2017,5320.0,74.43644541,False,False
+BEL,Belgium,2017,42310.0,87.67968082,False,False
+BLZ,Belize,2017,5490.0,48.8771019,False,False
+BEN,Benin,2017,1020.0,18.7,False,False
+BMU,Bermuda,2017,113460.0,98.37,False,False
+BTN,Bhutan,2017,2960.0,54.33549881,False,False
+BOL,Bolivia,2017,3250.0,43.83229828,False,False
+BIH,Bosnia and Herzegovina,2017,5070.0,64.89202051,False,False
+BWA,Botswana,2017,6210.0,43.57640076,False,False
+BRA,Brazil,2017,8830.0,67.47128452,False,False
+BRN,Brunei Darussalam,2017,29230.0,94.86669922,False,True
+BGR,Bulgaria,2017,7730.0,63.41010138,False,False
+BFA,Burkina Faso,2017,650.0,7.790400028,False,False
+BDI,Burundi,2017,240.0,2.660748535,False,False
+CPV,Cabo Verde,2017,3620.0,57.16214635,False,False
+KHM,Cambodia,2017,1690.0,32.90027854,False,True
+CMR,Cameroon,2017,1410.0,23.20297197,False,False
+CAN,Canada,2017,42900.0,92.70140076,False,False
+CYM,Cayman Islands,2017,51890.0,81.06769325,False,False
+CAF,Central African Rep.,2017,420.0,4.0,False,False
+TCD,Chad,2017,830.0,6.351900101,False,False
+CHL,Chile,2017,13200.0,82.32748693,False,False
+CHN,China,2017,8830.0,54.3,False,False
+COL,Colombia,2017,6030.0,62.25988032,False,False
+COM,Comoros,2017,1380.0,8.478199959,False,False
+COG,Congo (Rep. of the),2017,1740.0,8.649999619,False,False
+CRI,Costa Rica,2017,11580.0,71.58166462,False,False
+CIV,Cote d'Ivoire,2017,1870.0,43.83992085,False,False
+HRV,Croatia,2017,13350.0,67.09619204,False,False
+CUB,Cuba,2017,8010.0,57.14840432,False,False
+CUW,Curacao,2017,18230.0,68.12721625,False,False
+CYP,Cyprus,2017,24600.0,80.74318897,False,False
+CZE,Czech Republic,2017,18350.0,78.71917285,False,False
+DNK,Denmark,2017,56600.0,97.09936216,False,False
+DJI,Djibouti,2017,2450.0,55.68140925,False,False
+DMA,Dominica,2017,8070.0,69.61969757,False,False
+DOM,Dominican Rep.,2017,6920.0,67.57124533,False,False
+ECU,Ecuador,2017,5930.0,55.79999924,False,False
+EGY,Egypt,2017,2880.0,44.95020425,False,False
+SLV,El Salvador,2017,3700.0,33.8207289,False,False
+GNQ,Equatorial Guinea,2017,6630.0,26.23999977,False,False
+EST,Estonia,2017,19140.0,88.10245687,False,False
+SWZ,Eswatini,2017,3290.0,35.33160019,False,False
+ETH,Ethiopia,2017,670.0,15.62440014,False,False
+FRO,Faroe Islands,2017,57920.0,97.58195894,False,False
+FJI,Fiji,2017,5120.0,53.6473999,False,False
+FIN,Finland,2017,44520.0,87.46892907,False,False
+FRA,France,2017,38120.0,80.50245972,False,False
+PYF,French Polynesia,2017,22220.0,72.70389531,False,False
+GAB,Gabon,2017,6240.0,51.60490036,False,False
+GMB,Gambia,2017,620.0,22.5156002,False,False
+GEO,Georgia,2017,4130.0,59.7055046,False,False
+DEU,Germany,2017,44730.0,84.3941537,False,False
+GHA,Ghana,2017,1830.0,37.88420105,False,False
+GRC,Greece,2017,17890.0,69.89297065,False,False
+GRD,Grenada,2017,8400.0,54.20000076,False,False
+GTM,Guatemala,2017,3980.0,37.90000153,False,False
+GIN,Guinea,2017,800.0,18.70000076,False,False
+GNB,Guinea-Bissau,2017,710.0,14.80000019,False,False
+GUY,Guyana,2017,5870.0,42.6753006,False,False
+HTI,Haiti,2017,1370.0,27.20000076,False,False
+HND,Honduras,2017,2210.0,31.73579247,False,False
+HKG,"Hong Kong SAR, China",2017,46380.0,89.41594465,False,False
+HUN,Hungary,2017,13310.0,76.75054712,False,False
+ISL,Iceland,2017,62770.0,98.25520119,False,False
+IND,India,2017,1790.0,18.20000076,False,False
+IDN,Indonesia,2017,3490.0,32.33580625,True,True
+IRN,Iran (Islamic Republic of),2017,5640.0,64.04397362,False,False
+IRQ,Iraq,2017,4430.0,25.96920013,False,False
+IRL,Ireland,2017,54410.0,84.11400706,False,False
+ISR,Israel,2017,38600.0,81.58118359,False,False
+ITA,Italy,2017,31790.0,63.077347,False,False
+JAM,Jamaica,2017,5300.0,55.07206705,False,False
+JPN,Japan,2017,39700.0,91.72654724,False,False
+JOR,Jordan,2017,4300.0,64.5,False,False
+KAZ,Kazakhstan,2017,7780.0,76.42674823,False,False
+KEN,Kenya,2017,1540.0,17.82710075,False,False
+KIR,Kiribati,2017,3130.0,25.30960083,False,False
+KOR,Korea (Rep. of),2017,31940.0,95.06942188,False,False
+XKX,Kosovo,2017,3950.0,83.89359681,False,False
+KWT,Kuwait,2017,30650.0,97.99998933,False,False
+KGZ,Kyrgyz Republic,2017,1090.0,50.80530167,False,False
+LAO,Lao P.D.R.,2017,2240.0,25.51040077,False,True
+LVA,Latvia,2017,14360.0,80.114077,False,False
+LBN,Lebanon,2017,8260.0,78.18080139,False,False
+LSO,Lesotho,2017,1160.0,39.0,False,False
+LBR,Liberia,2017,620.0,16.29999924,False,False
+LBY,Libya,2017,9760.0,47.5,False,False
+LTU,Lithuania,2017,15260.0,77.61525651,False,False
+LUX,Luxembourg,2017,75800.0,97.36296032,False,False
+MAC,"Macao SAR, China",2017,66890.0,83.17408907,False,False
+MDG,Madagascar,2017,450.0,6.406000137,False,False
+MWI,Malawi,2017,480.0,7.0,False,False
+MYS,Malaysia,2017,9560.0,80.14047901,False,True
+MDV,Maldives,2017,9400.0,64.95500183,False,False
+MLI,Mali,2017,860.0,18.89999962,False,False
+MLT,Malta,2017,26690.0,81.01191108,False,False
+MHL,Marshall Islands,2017,5310.0,38.70119858,False,False
+MRT,Mauritania,2017,1560.0,21.01720047,False,False
+MUS,Mauritius,2017,11020.0,55.4032403,False,False
+MEX,Mexico,2017,9270.0,53.03178861,False,False
+FSM,Micronesia,2017,3430.0,35.30410004,False,False
+MDA,Moldova,2017,3300.0,71.76709747,False,False
+MNG,Mongolia,2017,3200.0,23.71430016,False,False
+MNE,Montenegro,2017,7240.0,71.27233254,False,False
+MAR,Morocco,2017,3160.0,61.76221201,False,False
+MOZ,Mozambique,2017,480.0,7.796326608,False,False
+MMR,Myanmar,2017,1230.0,23.62108195,False,True
+NAM,Namibia,2017,4430.0,36.83739853,False,False
+NRU,Naoero,2017,11300.0,62.38510132,False,False
+NPL,Nepal,2017,970.0,24.3,False,False
+NLD,Netherlands,2017,46710.0,93.19727891,False,False
+NZL,New Zealand,2017,38790.0,87.69999695,False,False
+NIC,Nicaragua,2017,2050.0,30.39999962,False,False
+NER,Niger,2017,520.0,10.22431156,False,False
+NGA,Nigeria,2017,2020.0,25.87789917,False,False
+MKD,North Macedonia,2017,5390.0,74.51682418,False,False
+NOR,Norway,2017,76270.0,96.3576013,False,False
+OMN,Oman,2017,16640.0,80.18560028,False,False
+PAK,Pakistan,2017,1450.0,13.77999973,False,False
+PAN,Panama,2017,14230.0,59.9506309,False,False
+PNG,Papua New Guinea,2017,2310.0,11.20919991,False,False
+PRY,Paraguay,2017,5810.0,61.07575622,False,False
+PER,Peru,2017,6090.0,50.45041218,False,False
+PHL,Philippines,2017,3440.0,41.59999847,False,True
+POL,Poland,2017,12780.0,75.98536595,False,False
+PRT,Portugal,2017,20030.0,73.79121395,False,False
+PRI,Puerto Rico,2017,19500.0,68.74077314,False,False
+QAT,Qatar,2017,60920.0,97.38884917,False,False
+ROU,Romania,2017,10030.0,63.74728218,False,False
+RUS,Russian Federation,2017,9160.0,76.00813853,False,False
+RWA,Rwanda,2017,720.0,17.2,False,False
+KNA,Saint Kitts and Nevis,2017,20420.0,67.78440094,False,False
+LCA,Saint Lucia,2017,10260.0,59.16009903,False,False
+VCT,Saint Vincent and the Grenadines,2017,7730.0,53.70000076,False,False
+SMR,San Marino,2017,40010.0,60.18230057,False,False
+STP,Sao Tome and Principe,2017,1440.0,32.61640167,False,False
+SAU,Saudi Arabia,2017,23130.0,94.17559961,False,False
+SEN,Senegal,2017,1270.0,29.64310074,False,False
+SRB,Serbia,2017,5810.0,70.33083553,False,False
+SYC,Seychelles,2017,16180.0,62.55310059,False,False
+SLE,Sierra Leone,2017,840.0,9.297100067,False,False
+SGP,Singapore,2017,55360.0,84.45226789,False,True
+SVK,Slovak Republic,2017,16710.0,81.62566752,False,False
+SVN,Slovenia,2017,22040.0,78.88542636,False,False
+SLB,Solomon Islands,2017,2020.0,15.14840031,False,False
+ZAF,South Africa,2017,5850.0,56.16740036,False,False
+ESP,Spain,2017,27290.0,84.6022457,False,False
+LKA,Sri Lanka,2017,4220.0,25.07550049,False,False
+PSE,State of Palestine,2017,3930.0,63.29999924,False,False
+SDN,Sudan,2017,1010.0,18.60000038,False,False
+SUR,Suriname,2017,5700.0,48.94520187,False,False
+SWE,Sweden,2017,52240.0,93.00626697,False,False
+CHE,Switzerland,2017,81790.0,89.68614767,False,False
+SYR,Syrian Arab Republic,2017,720.0,32.70000076,False,False
+TJK,Tajikistan,2017,1000.0,21.95999908,False,False
+TZA,Tanzania,2017,960.0,14.46339989,False,False
+THA,Thailand,2017,5800.0,52.89192934,False,True
+TLS,Timor-Leste,2017,1780.0,24.20000076,False,True
+TGO,Togo,2017,850.0,12.36022497,False,False
+TON,Tonga,2017,4450.0,46.20080185,False,False
+TTO,Trinidad and Tobago,2017,16930.0,70.59999847,False,False
+TUN,Tunisia,2017,3700.0,55.50015506,False,False
+TUR,Turkiye,2017,11140.0,64.68461768,False,False
+TUV,Tuvalu,2017,5320.0,35.20000076,False,False
+UGA,Uganda,2017,760.0,7.417900085,False,False
+UKR,Ukraine,2017,2330.0,58.88947945,False,False
+ARE,United Arab Emirates,2017,42230.0,94.81992254,False,False
+GBR,United Kingdom,2017,42140.0,90.42455049,False,False
+USA,United States,2017,58860.0,87.27488917,False,False
+URY,Uruguay,2017,16720.0,70.3223544,False,False
+UZB,Uzbekistan,2017,2890.0,48.69999885,False,False
+VNM,Viet Nam,2017,2680.0,58.14,False,True
+ZMB,Zambia,2017,1260.0,12.19999981,False,False
+ZWE,Zimbabwe,2017,1680.0,24.39999962,False,False
+AFG,Afghanistan,2018,520.0,16.79999924,False,False
+ALB,Albania,2018,5400.0,65.40000153,False,False
+DZA,Algeria,2018,4450.0,49.03846808,False,False
+AGO,Angola,2018,2300.0,29.0,False,False
+ATG,Antigua and Barbuda,2018,17460.0,70.81790161,False,False
+ARG,Argentina,2018,12390.0,77.7,False,False
+ARM,Armenia,2018,4220.0,68.24505226,False,False
+AUS,Australia,2018,53280.0,90.0082016,False,False
+AUT,Austria,2018,48710.0,87.47913723,False,False
+AZE,Azerbaijan,2018,4080.0,79.79999549,False,False
+BHS,Bahamas,2018,30650.0,83.0,False,False
+BHR,Bahrain,2018,24200.0,98.64467258,False,False
+BGD,Bangladesh,2018,2020.0,25.56509972,False,False
+BRB,Barbados,2018,20240.0,70.72650146,False,False
+BLR,Belarus,2018,5730.0,79.12988669,False,False
+BEL,Belgium,2018,45980.0,88.647343,False,False
+BLZ,Belize,2018,5610.0,53.59360123,False,False
+BEN,Benin,2018,1120.0,19.0,False,False
+BTN,Bhutan,2018,3150.0,63.48680115,False,False
+BOL,Bolivia,2018,3730.0,44.2861422,False,False
+BIH,Bosnia and Herzegovina,2018,5720.0,70.12013504,False,False
+BWA,Botswana,2018,6680.0,46.12509918,False,False
+BRA,Brazil,2018,9320.0,70.43428254,False,False
+BRN,Brunei Darussalam,2018,28790.0,95.0,False,True
+BGR,Bulgaria,2018,8860.0,64.78201069,False,False
+BFA,Burkina Faso,2018,730.0,8.498900414,False,False
+BDI,Burundi,2018,250.0,4.019499779,False,False
+CPV,Cabo Verde,2018,4040.0,59.5,False,False
+KHM,Cambodia,2018,1920.0,65.0,False,True
+CMR,Cameroon,2018,1520.0,29.70000076,False,False
+CAN,Canada,2018,45060.0,94.64,False,False
+CAF,Central African Rep.,2018,470.0,5.099999905,False,False
+TCD,Chad,2018,890.0,6.956299782,False,False
+CHL,Chile,2018,14460.0,84.90000153,False,False
+CHN,China,2018,9720.0,65.35839844,False,False
+COL,Colombia,2018,6350.0,64.12637682,False,False
+COG,Congo (Rep. of the),2018,2070.0,11.8071003,False,False
+COD,"Congo, Dem. Rep.",2018,460.0,11.69999981,False,False
+CRI,Costa Rica,2018,12100.0,73.47972844,False,False
+CIV,Cote d'Ivoire,2018,2010.0,37.54653613,False,False
+HRV,Croatia,2018,14670.0,75.29462599,False,False
+CUB,Cuba,2018,8710.0,62.67892362,False,False
+CYP,Cyprus,2018,27120.0,84.43358252,False,False
+CZE,Czech Republic,2018,20700.0,80.68816754,False,False
+DNK,Denmark,2018,61090.0,97.31920437,False,False
+DJI,Djibouti,2018,2600.0,57.06169891,False,False
+DOM,Dominican Rep.,2018,7600.0,74.82204836,False,False
+ECU,Ecuador,2018,6120.0,57.5,False,False
+EGY,Egypt,2018,2710.0,46.92433677,False,False
+SLV,El Salvador,2018,3940.0,43.79999924,False,False
+GNQ,Equatorial Guinea,2018,6270.0,29.39999962,False,False
+EST,Estonia,2018,21600.0,89.35700777,False,False
+SWZ,Eswatini,2018,3460.0,39.38100052,False,False
+ETH,Ethiopia,2018,730.0,15.88619995,False,False
+FJI,Fiji,2018,5690.0,58.2364006,False,False
+FIN,Finland,2018,47900.0,88.88996,False,False
+FRA,France,2018,40960.0,82.04318678,False,False
+GAB,Gabon,2018,6690.0,55.42020035,False,False
+GMB,Gambia,2018,680.0,28.30900002,False,False
+GEO,Georgia,2018,4580.0,62.7179082,False,False
+DEU,Germany,2018,48770.0,87.03711209,False,False
+GHA,Ghana,2018,2060.0,43.0,False,False
+GRC,Greece,2018,19060.0,72.23837339,False,False
+GRD,Grenada,2018,9220.0,61.42459869,False,False
+GTM,Guatemala,2018,4270.0,41.5,False,False
+GIN,Guinea,2018,860.0,21.83002304,False,False
+GNB,Guinea-Bissau,2018,750.0,15.69999981,False,False
+GUY,Guyana,2018,6100.0,48.59889984,False,False
+HTI,Haiti,2018,1430.0,32.47362713,False,False
+HND,Honduras,2018,2280.0,36.04006082,False,False
+HKG,"Hong Kong SAR, China",2018,50050.0,90.50739533,False,False
+HUN,Hungary,2018,15180.0,76.07436064,False,False
+ISL,Iceland,2018,72840.0,99.01095399,False,False
+IND,India,2018,1970.0,20.08130004,False,False
+IDN,Indonesia,2018,3810.0,39.90463864,True,True
+IRN,Iran (Islamic Republic of),2018,5390.0,70.200565,False,False
+IRQ,Iraq,2018,4820.0,33.92810059,False,False
+IRL,Ireland,2018,59110.0,87.00014011,False,False
+ISR,Israel,2018,41960.0,83.73315696,False,False
+ITA,Italy,2018,34270.0,74.38718292,False,False
+JAM,Jamaica,2018,5610.0,68.21451709,False,False
+JPN,Japan,2018,42720.0,88.74635089,False,False
+JOR,Jordan,2018,4480.0,65.2,False,False
+KAZ,Kazakhstan,2018,7800.0,78.90391906,False,False
+KEN,Kenya,2018,1720.0,19.5,False,False
+KIR,Kiribati,2018,3280.0,32.9864006,False,False
+KOR,Korea (Rep. of),2018,34610.0,96.02285958,False,False
+XKX,Kosovo,2018,4300.0,89.44303197,False,False
+KWT,Kuwait,2018,32340.0,99.59884959,False,False
+KGZ,Kyrgyz Republic,2018,1200.0,62.8,False,False
+LAO,Lao P.D.R.,2018,2460.0,36.27130127,False,True
+LVA,Latvia,2018,16010.0,83.57717486,False,False
+LBN,Lebanon,2018,8700.0,80.90000153,False,False
+LSO,Lesotho,2018,1250.0,40.79999924,False,False
+LBR,Liberia,2018,620.0,17.27770042,False,False
+LBY,Libya,2018,11000.0,47.5,False,False
+LTU,Lithuania,2018,17550.0,79.72258277,False,False
+LUX,Luxembourg,2018,80120.0,97.06129871,False,False
+MAC,"Macao SAR, China",2018,72780.0,83.79408961,False,False
+MDG,Madagascar,2018,480.0,7.747799873,False,False
+MWI,Malawi,2018,490.0,8.798299789,False,False
+MYS,Malaysia,2018,10200.0,81.20104862,False,True
+MDV,Maldives,2018,10220.0,70.93689728,False,False
+MLI,Mali,2018,930.0,21.39999962,False,False
+MLT,Malta,2018,29030.0,81.65804429,False,False
+MHL,Marshall Islands,2018,6040.0,43.88249969,False,False
+MRT,Mauritania,2018,1680.0,22.96699905,False,False
+MUS,Mauritius,2018,12190.0,58.5961697,False,False
+MEX,Mexico,2018,9560.0,56.6595668,False,False
+FSM,Micronesia,2018,3420.0,36.61460114,False,False
+MDA,Moldova,2018,3850.0,72.54239655,False,False
+MNG,Mongolia,2018,3650.0,47.13000188,False,False
+MNE,Montenegro,2018,8250.0,71.51710049,False,False
+MAR,Morocco,2018,3380.0,64.80386519,False,False
+MOZ,Mozambique,2018,470.0,10.89999962,False,False
+MMR,Myanmar,2018,1310.0,29.37899971,False,True
+NAM,Namibia,2018,4670.0,42.8207016,False,False
+NPL,Nepal,2018,1120.0,28.60000038,False,False
+NLD,Netherlands,2018,51290.0,91.89189189,False,False
+NZL,New Zealand,2018,41570.0,89.0,False,False
+NIC,Nicaragua,2018,1990.0,33.9129982,False,False
+NER,Niger,2018,580.0,10.74180031,False,False
+NGA,Nigeria,2018,1950.0,27.74370003,False,False
+MKD,North Macedonia,2018,6050.0,79.16775519,False,False
+NOR,Norway,2018,81200.0,96.49165799,False,False
+OMN,Oman,2018,17250.0,85.5,False,False
+PAK,Pakistan,2018,1560.0,15.34000015,False,False
+PAN,Panama,2018,14910.0,61.80553132,False,False
+PNG,Papua New Guinea,2018,2310.0,12.35789967,False,False
+PRY,Paraguay,2018,6060.0,64.99354302,False,False
+PER,Peru,2018,6500.0,55.05433424,False,False
+PHL,Philippines,2018,3610.0,44.09999847,False,True
+POL,Poland,2018,14310.0,77.54173454,False,False
+PRT,Portugal,2018,22040.0,74.66096815,False,False
+PRI,Puerto Rico,2018,20380.0,70.85639974,False,False
+QAT,Qatar,2018,63410.0,99.65284913,False,False
+ROU,Romania,2018,11490.0,70.68127793,False,False
+RUS,Russian Federation,2018,10180.0,80.86472187,False,False
+RWA,Rwanda,2018,760.0,19.16659927,False,False
+KNA,Saint Kitts and Nevis,2018,21930.0,68.60479736,False,False
+LCA,Saint Lucia,2018,11060.0,60.11259842,False,False
+VCT,Saint Vincent and the Grenadines,2018,8370.0,56.0,False,False
+STP,Sao Tome and Principe,2018,1660.0,37.99380112,False,False
+SAU,Saudi Arabia,2018,26570.0,93.31000185,False,False
+SEN,Senegal,2018,1390.0,35.29999924,False,False
+SRB,Serbia,2018,6700.0,73.36070915,False,False
+SYC,Seychelles,2018,17620.0,69.23660278,False,False
+SLE,Sierra Leone,2018,830.0,14.42230034,False,False
+SGP,Singapore,2018,56440.0,88.16563603,False,True
+SVK,Slovak Republic,2018,18460.0,80.44892248,False,False
+SVN,Slovenia,2018,24510.0,79.7499766,False,False
+SLB,Solomon Islands,2018,2150.0,20.8593998,False,False
+ZAF,South Africa,2018,6250.0,62.40000153,False,False
+ESP,Spain,2018,29530.0,86.10723553,False,False
+LKA,Sri Lanka,2018,4350.0,28.33620071,False,False
+PSE,State of Palestine,2018,4190.0,64.39999371,False,False
+SUR,Suriname,2018,5730.0,55.10210037,False,False
+SWE,Sweden,2018,54930.0,89.24696316,False,False
+CHE,Switzerland,2018,84760.0,91.80000305,False,False
+SYR,Syrian Arab Republic,2018,810.0,33.77000046,False,False
+TJK,Tajikistan,2018,1000.0,32.59999847,False,False
+TZA,Tanzania,2018,1010.0,15.49069977,False,False
+THA,Thailand,2018,6430.0,56.81748093,False,True
+TLS,Timor-Leste,2018,1790.0,27.60000038,False,True
+TGO,Togo,2018,920.0,15.5,False,False
+TON,Tonga,2018,4650.0,48.80789948,False,False
+TTO,Trinidad and Tobago,2018,16800.0,72.76029968,False,False
+TUN,Tunisia,2018,3700.0,64.19081023,False,False
+TUR,Turkiye,2018,10760.0,71.04276084,False,False
+UGA,Uganda,2018,770.0,9.326299667,False,False
+UKR,Ukraine,2018,2720.0,62.55315539,False,False
+ARE,United Arab Emirates,2018,44570.0,98.45000178,False,False
+GBR,United Kingdom,2018,42540.0,90.69200899,False,False
+USA,United States,2018,63040.0,88.49890317,False,False
+URY,Uruguay,2018,17700.0,80.72684288,False,False
+UZB,Uzbekistan,2018,2490.0,55.20000067,False,False
+VNM,Viet Nam,2018,3020.0,69.84792868,False,True
+ZMB,Zambia,2018,1390.0,14.2999971,False,False
+ZWE,Zimbabwe,2018,2140.0,25.0,False,False
+AFG,Afghanistan,2019,520.0,17.60000038,False,False
+ALB,Albania,2019,5900.0,68.55039112,False,False
+DZA,Algeria,2019,4480.0,55.79069901,False,False
+AND,Andorra,2019,46450.0,90.71869659,False,False
+AGO,Angola,2019,2460.0,32.12939835,False,False
+ATG,Antigua and Barbuda,2019,18250.0,71.09259796,False,False
+ARG,Argentina,2019,11210.0,79.94695203,False,False
+ARM,Armenia,2019,4650.0,66.54394969,False,False
+AUS,Australia,2019,55090.0,93.60990143,False,False
+AUT,Austria,2019,50900.0,87.75220479,False,False
+AZE,Azerbaijan,2019,4510.0,81.09999907,False,False
+BHS,Bahamas,2019,31630.0,90.69329834,False,False
+BHR,Bahrain,2019,25800.0,99.70150438,False,False
+BGD,Bangladesh,2019,2220.0,30.38310051,False,False
+BRB,Barbados,2019,20800.0,70.30709839,False,False
+BLR,Belarus,2019,6370.0,82.78915209,False,False
+BEL,Belgium,2019,48070.0,90.27542801,False,False
+BLZ,Belize,2019,5850.0,58.76520157,False,False
+BEN,Benin,2019,1170.0,20.50099945,False,False
+BTN,Bhutan,2019,3370.0,74.17939758,False,False
+BOL,Bolivia,2019,4170.0,47.47481911,False,False
+BIH,Bosnia and Herzegovina,2019,6180.0,69.94634763,False,False
+BWA,Botswana,2019,7100.0,48.82279968,False,False
+BRA,Brazil,2019,9410.0,73.91243991,False,False
+BRN,Brunei Darussalam,2019,31550.0,95.0,False,True
+BGR,Bulgaria,2019,9920.0,67.94698094,False,False
+BFA,Burkina Faso,2019,750.0,9.27180601,False,False
+BDI,Burundi,2019,250.0,6.072199821,False,False
+CPV,Cabo Verde,2019,4420.0,61.94339776,False,False
+KHM,Cambodia,2019,2100.0,52.30587822,False,True
+CMR,Cameroon,2019,1560.0,36.53919983,False,False
+CAN,Canada,2019,46580.0,91.91290283,False,False
+CAF,Central African Rep.,2019,500.0,7.509200096,False,False
+TCD,Chad,2019,930.0,7.618199825,False,False
+CHL,Chile,2019,14700.0,85.01760101,False,False
+CHN,China,2019,10510.0,64.0808813,False,False
+COL,Colombia,2019,6630.0,65.00690072,False,False
+COM,Comoros,2019,1530.0,16.38380051,False,False
+COG,Congo (Rep. of the),2019,2180.0,16.11639977,False,False
+COD,"Congo, Dem. Rep.",2019,460.0,13.02970028,False,False
+CRI,Costa Rica,2019,12310.0,81.20259644,False,False
+CIV,Cote d'Ivoire,2019,2120.0,36.28895457,False,False
+HRV,Croatia,2019,15770.0,79.07978368,False,False
+CUB,Cuba,2019,9010.0,67.97080866,False,False
+CYP,Cyprus,2019,28380.0,86.06362996,False,False
+CZE,Czech Republic,2019,22440.0,80.86694441,False,False
+DNK,Denmark,2019,63020.0,98.04643475,False,False
+DJI,Djibouti,2019,2780.0,58.4762001,False,False
+DMA,Dominica,2019,9350.0,73.38200378,False,False
+DOM,Dominican Rep.,2019,7940.0,79.71549988,False,False
+ECU,Ecuador,2019,6100.0,59.2,False,False
+EGY,Egypt,2019,2640.0,57.2828664,False,False
+SLV,El Salvador,2019,4130.0,50.49119407,False,False
+GNQ,Equatorial Guinea,2019,5570.0,49.13370132,False,False
+EST,Estonia,2019,23490.0,90.2289282,False,False
+SWZ,Eswatini,2019,3680.0,43.93389893,False,False
+ETH,Ethiopia,2019,790.0,15.98460007,False,False
+FJI,Fiji,2019,5570.0,63.21789932,False,False
+FIN,Finland,2019,49590.0,89.60738511,False,False
+FRA,France,2019,42720.0,83.33974409,False,False
+GAB,Gabon,2019,7040.0,59.51760101,False,False
+GMB,Gambia,2019,720.0,31.11829948,False,False
+GEO,Georgia,2019,4780.0,68.84671356,False,False
+DEU,Germany,2019,50350.0,88.13451691,False,False
+GHA,Ghana,2019,2170.0,22.0732,False,False
+GRC,Greece,2019,19770.0,75.67120669,False,False
+GRD,Grenada,2019,9400.0,64.31279755,False,False
+GTM,Guatemala,2019,4490.0,44.40104984,False,False
+GIN,Guinea,2019,970.0,23.89049911,False,False
+GNB,Guinea-Bissau,2019,850.0,17.92149925,False,False
+GUY,Guyana,2019,6380.0,55.31269836,False,False
+HTI,Haiti,2019,1410.0,35.76409912,False,False
+HND,Honduras,2019,2330.0,39.38835219,False,False
+HKG,"Hong Kong SAR, China",2019,50480.0,91.74340039,False,False
+HUN,Hungary,2019,16840.0,80.37169361,False,False
+ISL,Iceland,2019,75560.0,99.50494117,False,False
+IND,India,2019,2070.0,29.52350044,False,False
+IDN,Indonesia,2019,4020.0,47.69064898,True,True
+IRN,Iran (Islamic Republic of),2019,4710.0,72.45090477,False,False
+IRQ,Iraq,2019,5520.0,44.32634655,False,False
+IRL,Ireland,2019,62460.0,87.00005524,False,False
+ISR,Israel,2019,44110.0,86.78787762,False,False
+ITA,Italy,2019,35030.0,67.85071029,False,False
+JAM,Jamaica,2019,5930.0,70.84101697,False,False
+JPN,Japan,2019,42960.0,92.73039781,False,False
+JOR,Jordan,2019,4580.0,70.08470154,False,False
+KAZ,Kazakhstan,2019,8500.0,81.87762047,False,False
+KEN,Kenya,2019,1880.0,22.66877336,False,False
+KIR,Kiribati,2019,3610.0,41.79299927,False,False
+KOR,Korea (Rep. of),2019,35790.0,96.15757918,False,False
+KWT,Kuwait,2019,35680.0,99.54267645,False,False
+KGZ,Kyrgyz Republic,2019,1240.0,64.1,False,False
+LAO,Lao P.D.R.,2019,2520.0,47.03229904,False,True
+LVA,Latvia,2019,17010.0,86.13545644,False,False
+LBN,Lebanon,2019,8630.0,81.48120117,False,False
+LSO,Lesotho,2019,1290.0,42.30173357,False,False
+LBR,Liberia,2019,600.0,19.89579964,False,False
+LBY,Libya,2019,10100.0,71.40409851,False,False
+LTU,Lithuania,2019,19200.0,81.58186838,False,False
+LUX,Luxembourg,2019,79280.0,97.12063569,False,False
+MAC,"Macao SAR, China",2019,71600.0,86.46792571,False,False
+MDG,Madagascar,2019,500.0,9.379400253,False,False
+MWI,Malawi,2019,540.0,11.05860043,False,False
+MYS,Malaysia,2019,10750.0,84.18714501,False,True
+MDV,Maldives,2019,10730.0,77.46970367,False,False
+MLI,Mali,2019,960.0,24.96030045,False,False
+MLT,Malta,2019,29830.0,85.77859638,False,False
+MHL,Marshall Islands,2019,6770.0,49.75749969,False,False
+MRT,Mauritania,2019,1720.0,25.0977993,False,False
+MUS,Mauritius,2019,12710.0,61.72995515,False,False
+MEX,Mexico,2019,9860.0,69.63210927,False,False
+FSM,Micronesia,2019,3850.0,37.97370148,False,False
+MDA,Moldova,2019,4490.0,73.32610321,False,False
+MNG,Mongolia,2019,3800.0,51.07999408,False,False
+MNE,Montenegro,2019,8970.0,73.47666575,False,False
+MAR,Morocco,2019,3510.0,84.12036305,False,False
+MOZ,Mozambique,2019,500.0,12.47929955,False,False
+MMR,Myanmar,2019,1380.0,36.54050064,False,True
+NAM,Namibia,2019,4870.0,49.77590179,False,False
+NRU,Naoero,2019,15840.0,74.73789978,False,False
+NPL,Nepal,2019,1240.0,33.33660126,False,False
+NLD,Netherlands,2019,52940.0,93.2885906,False,False
+NZL,New Zealand,2019,43090.0,89.86370087,False,False
+NIC,Nicaragua,2019,1930.0,39.01079941,False,False
+NER,Niger,2019,600.0,11.28549957,False,False
+NGA,Nigeria,2019,2260.0,29.74410057,False,False
+MKD,North Macedonia,2019,6520.0,81.41288276,False,False
+NOR,Norway,2019,82500.0,98.00000439,False,False
+OMN,Oman,2019,17860.0,90.25939941,False,False
+PAK,Pakistan,2019,1520.0,17.07090172,False,False
+PAN,Panama,2019,15640.0,63.62841477,False,False
+PNG,Papua New Guinea,2019,2420.0,13.62419987,False,False
+PRY,Paraguay,2019,5950.0,68.51762842,False,False
+PER,Peru,2019,6850.0,59.9505036,False,False
+PHL,Philippines,2019,3760.0,43.02661187,False,True
+POL,Poland,2019,15510.0,80.43590688,False,False
+PRT,Portugal,2019,23250.0,75.34637794,False,False
+PRI,Puerto Rico,2019,21310.0,77.73643937,False,False
+QAT,Qatar,2019,65700.0,99.65280421,False,False
+ROU,Romania,2019,12660.0,73.65747575,False,False
+RUS,Russian Federation,2019,11190.0,82.64216187,False,False
+RWA,Rwanda,2019,820.0,21.3579998,False,False
+KNA,Saint Kitts and Nevis,2019,23670.0,69.43499756,False,False
+LCA,Saint Lucia,2019,11060.0,61.08050156,False,False
+VCT,Saint Vincent and the Grenadines,2019,8700.0,59.57630157,False,False
+SMR,San Marino,2019,43770.0,67.85070038,False,False
+STP,Sao Tome and Principe,2019,1810.0,44.25790024,False,False
+SAU,Saudi Arabia,2019,29140.0,95.7247356,False,False
+SEN,Senegal,2019,1430.0,43.37969971,False,False
+SRB,Serbia,2019,7380.0,77.41677362,False,False
+SYC,Seychelles,2019,18700.0,76.63420105,False,False
+SLE,Sierra Leone,2019,850.0,15.71370029,False,False
+SGP,Singapore,2019,58510.0,88.94925269,False,True
+SVK,Slovak Republic,2019,19230.0,82.8536605,False,False
+SVN,Slovenia,2019,25900.0,83.1083578,False,False
+SLB,Solomon Islands,2019,2210.0,22.48880005,False,False
+SOM,Somalia,2019,520.0,2.731400013,False,False
+ZAF,South Africa,2019,6570.0,69.69689941,False,False
+ESP,Spain,2019,30560.0,90.71866533,False,False
+LKA,Sri Lanka,2019,4220.0,32.02090073,False,False
+PSE,State of Palestine,2019,4200.0,70.6225837,False,False
+SUR,Suriname,2019,6000.0,62.03350067,False,False
+SWE,Sweden,2019,56100.0,94.49344341,False,False
+CHE,Switzerland,2019,84160.0,93.14608695,False,False
+TJK,Tajikistan,2019,1050.0,22.68630028,False,False
+TZA,Tanzania,2019,1050.0,16.59090042,False,False
+THA,Thailand,2019,7070.0,66.65241946,False,True
+TLS,Timor-Leste,2019,2180.0,28.00460052,False,True
+TGO,Togo,2019,950.0,20.72730064,False,False
+TON,Tonga,2019,4980.0,51.56299973,False,False
+TTO,Trinidad and Tobago,2019,17240.0,74.98670197,False,False
+TUN,Tunisia,2019,3590.0,66.6999983,False,False
+TUR,Turkiye,2019,9970.0,73.97670229,False,False
+UGA,Uganda,2019,810.0,11.72579956,False,False
+UKR,Ukraine,2019,3270.0,70.1248443,False,False
+ARE,United Arab Emirates,2019,46690.0,99.14999796,False,False
+GBR,United Kingdom,2019,43640.0,92.51662855,False,False
+USA,United States,2019,65840.0,89.43028486,False,False
+URY,Uruguay,2019,18390.0,83.35153377,False,False
+UZB,Uzbekistan,2019,2240.0,70.39999865,False,False
+VEN,Venezuela,2019,2370.0,49.05009842,False,False
+VNM,Viet Nam,2019,3290.0,68.66158021,False,True
+ZMB,Zambia,2019,1380.0,14.47189999,False,False
+ZWE,Zimbabwe,2019,2430.0,26.5883007,False,False
+AFG,Afghanistan,2020,490.0,17.04850006,False,False
+ALB,Albania,2020,5970.0,72.23767711,False,False
+DZA,Algeria,2020,4020.0,63.47269821,False,False
+AND,Andorra,2020,42450.0,93.20570374,False,False
+AGO,Angola,2020,2000.0,33.32089996,False,False
+ATG,Antigua and Barbuda,2020,15460.0,71.36840057,False,False
+ARG,Argentina,2020,9040.0,85.51438646,False,False
+ARM,Armenia,2020,4230.0,76.50770055,False,False
+AUS,Australia,2020,53770.0,94.6934967,False,False
+AUT,Austria,2020,49000.0,87.52942813,False,False
+AZE,Azerbaijan,2020,4480.0,84.59999573,False,False
+BHS,Bahamas,2020,25180.0,92.4437027,False,False
+BHR,Bahrain,2020,23870.0,99.67103159,False,False
+BGD,Bangladesh,2020,2320.0,36.10910034,False,False
+BRB,Barbados,2020,18290.0,69.89009857,False,False
+BLR,Belarus,2020,6410.0,85.08791245,False,False
+BEL,Belgium,2020,46330.0,91.52641629,False,False
+BLZ,Belize,2020,5170.0,64.43589783,False,False
+BEN,Benin,2020,1190.0,22.12059975,False,False
+BTN,Bhutan,2020,3040.0,76.85079956,False,False
+BOL,Bolivia,2020,3620.0,59.94010155,False,False
+BIH,Bosnia and Herzegovina,2020,6160.0,73.21175294,False,False
+BWA,Botswana,2020,6600.0,51.67819977,False,False
+BRA,Brazil,2020,8080.0,81.34269353,False,False
+BRN,Brunei Darussalam,2020,30810.0,96.30549622,False,True
+BGR,Bulgaria,2020,10090.0,70.16248359,False,False
+BFA,Burkina Faso,2020,780.0,12.97319984,False,False
+BDI,Burundi,2020,240.0,6.430099964,False,False
+CPV,Cabo Verde,2020,3510.0,69.37339783,False,False
+KHM,Cambodia,2020,2050.0,56.37590027,False,True
+CMR,Cameroon,2020,1540.0,37.69749832,False,False
+CAN,Canada,2020,43900.0,92.3,False,False
+TCD,Chad,2020,890.0,8.343099594,False,False
+CHL,Chile,2020,12960.0,87.45929718,False,False
+CHN,China,2020,10740.0,70.05275998,False,False
+COL,Colombia,2020,5850.0,69.79533474,False,False
+COM,Comoros,2020,1530.0,22.42040062,False,False
+COG,Congo (Rep. of the),2020,2230.0,21.99850082,False,False
+COD,"Congo, Dem. Rep.",2020,480.0,14.51049995,False,False
+CRI,Costa Rica,2020,11780.0,80.53018608,False,False
+CIV,Cote d'Ivoire,2020,2120.0,36.01660156,False,False
+HRV,Croatia,2020,15060.0,78.32090004,False,False
+CYP,Cyprus,2020,26780.0,90.80194644,False,False
+CZE,Czech Republic,2020,22190.0,81.33889705,False,False
+DNK,Denmark,2020,62710.0,96.54914573,False,False
+DJI,Djibouti,2020,2780.0,59.92570114,False,False
+DMA,Dominica,2020,8230.0,75.65670013,False,False
+DOM,Dominican Rep.,2020,7080.0,81.61730194,False,False
+ECU,Ecuador,2020,5410.0,70.7,False,False
+EGY,Egypt,2020,2960.0,71.91420096,False,False
+SLV,El Salvador,2020,3800.0,54.60136976,False,False
+GNQ,Equatorial Guinea,2020,6140.0,55.00130081,False,False
+EST,Estonia,2020,23580.0,89.05828666,False,False
+SWZ,Eswatini,2020,3430.0,49.01300049,False,False
+ETH,Ethiopia,2020,820.0,16.06959915,False,False
+FJI,Fiji,2020,4560.0,68.62560272,False,False
+FIN,Finland,2020,49630.0,92.17027106,False,False
+FRA,France,2020,39690.0,84.70639801,False,False
+GAB,Gabon,2020,6820.0,63.91790009,False,False
+GMB,Gambia,2020,720.0,36.01100159,False,False
+GEO,Georgia,2020,4330.0,72.53157487,False,False
+DEU,Germany,2020,48540.0,89.81294133,False,False
+GHA,Ghana,2020,2120.0,62.51760101,False,False
+GRC,Greece,2020,18030.0,78.11584474,False,False
+GRD,Grenada,2020,8390.0,65.65380096,False,False
+GTM,Guatemala,2020,4360.0,47.51229858,False,False
+GIN,Guinea,2020,1030.0,26.14550018,False,False
+GNB,Guinea-Bissau,2020,860.0,20.45730019,False,False
+GUY,Guyana,2020,8090.0,62.95399857,False,False
+HTI,Haiti,2020,1340.0,39.38809967,False,False
+HND,Honduras,2020,2120.0,45.24829865,False,False
+HKG,"Hong Kong SAR, China",2020,48550.0,92.41313602,False,False
+HUN,Hungary,2020,16330.0,84.77115202,False,False
+ISL,Iceland,2020,66730.0,99.5327519,False,False
+IND,India,2020,1900.0,43.40544313,False,False
+IDN,Indonesia,2020,3850.0,53.72649449,True,True
+IRN,Iran (Islamic Republic of),2020,3980.0,75.56986637,False,False
+IRQ,Iraq,2020,4720.0,53.67779922,False,False
+IRL,Ireland,2020,64420.0,91.99989097,False,False
+ISR,Israel,2020,43330.0,90.12734091,False,False
+ITA,Italy,2020,32600.0,70.48342785,False,False
+JAM,Jamaica,2020,5360.0,76.38400269,False,False
+JPN,Japan,2020,41880.0,90.21945812,False,False
+JOR,Jordan,2020,4460.0,78.4178009,False,False
+KAZ,Kazakhstan,2020,8380.0,85.94259898,False,False
+KEN,Kenya,2020,1910.0,24.7227993,False,False
+KIR,Kiribati,2020,3070.0,52.95090103,False,False
+KOR,Korea (Rep. of),2020,35000.0,96.50506052,False,False
+KWT,Kuwait,2020,33150.0,99.10587017,False,False
+KGZ,Kyrgyz Republic,2020,1210.0,72.0,False,False
+LAO,Lao P.D.R.,2020,2470.0,54.0,False,True
+LVA,Latvia,2020,17350.0,88.89796078,False,False
+LBN,Lebanon,2020,6350.0,82.0664978,False,False
+LSO,Lesotho,2020,1170.0,43.65750122,False,False
+LBR,Liberia,2020,570.0,22.91069984,False,False
+LBY,Libya,2020,7000.0,74.35810089,False,False
+LTU,Lithuania,2020,19800.0,83.05554724,False,False
+LUX,Luxembourg,2020,80090.0,98.45962893,False,False
+MAC,"Macao SAR, China",2020,43810.0,87.46230316,False,False
+MDG,Madagascar,2020,450.0,11.35470009,False,False
+MWI,Malawi,2020,560.0,13.89949989,False,False
+MYS,Malaysia,2020,10110.0,89.55501192,False,True
+MDV,Maldives,2020,7050.0,79.09780121,False,False
+MLI,Mali,2020,930.0,29.11300087,False,False
+MLT,Malta,2020,26910.0,86.85876183,False,False
+MHL,Marshall Islands,2020,6610.0,56.41910172,False,False
+MRT,Mauritania,2020,1720.0,29.90649986,False,False
+MUS,Mauritius,2020,10780.0,67.73290684,False,False
+MEX,Mexico,2020,8920.0,71.49017499,False,False
+FSM,Micronesia,2020,4070.0,39.38330078,False,False
+MDA,Moldova,2020,4360.0,74.11830139,False,False
+MNG,Mongolia,2020,3690.0,62.50002848,False,False
+MNE,Montenegro,2020,7780.0,77.60879306,False,False
+MAR,Morocco,2020,3260.0,84.12036305,False,False
+MOZ,Mozambique,2020,480.0,14.28740025,False,False
+MMR,Myanmar,2020,1320.0,45.4477005,False,True
+NAM,Namibia,2020,4240.0,57.8608017,False,False
+NRU,Naoero,2020,17180.0,77.46659851,False,False
+NPL,Nepal,2020,1190.0,36.96530151,False,False
+NLD,Netherlands,2020,51490.0,91.33333333,False,False
+NZL,New Zealand,2020,41880.0,90.92099762,False,False
+NIC,Nicaragua,2020,1810.0,44.87490082,False,False
+NER,Niger,2020,570.0,11.85680008,False,False
+NGA,Nigeria,2020,2460.0,31.88879967,False,False
+MKD,North Macedonia,2020,6460.0,81.40553811,False,False
+NOR,Norway,2020,78460.0,94.60755647,False,False
+OMN,Oman,2020,17190.0,95.23229321,False,False
+PAK,Pakistan,2020,1370.0,18.935,False,False
+PAN,Panama,2020,13070.0,64.82430267,False,False
+PNG,Papua New Guinea,2020,2410.0,15.02040005,False,False
+PRY,Paraguay,2020,5550.0,73.95751114,False,False
+PER,Peru,2020,6080.0,65.25179796,False,False
+PHL,Philippines,2020,3350.0,53.76490021,False,True
+POL,Poland,2020,15640.0,83.18488715,False,False
+PRT,Portugal,2020,21910.0,78.26166044,False,False
+QAT,Qatar,2020,57730.0,99.65284913,False,False
+ROU,Romania,2020,12720.0,78.45526895,False,False
+RUS,Russian Federation,2020,10660.0,84.99466978,False,False
+RWA,Rwanda,2020,780.0,23.8,False,False
+KNA,Saint Kitts and Nevis,2020,19340.0,70.27529907,False,False
+LCA,Saint Lucia,2020,8700.0,62.06399918,False,False
+VCT,Saint Vincent and the Grenadines,2020,8360.0,63.38100052,False,False
+SMR,San Marino,2020,40570.0,77.94999695,False,False
+STP,Sao Tome and Principe,2020,2030.0,51.55469894,False,False
+SAU,Saudi Arabia,2020,26940.0,97.8623325,False,False
+SEN,Senegal,2020,1430.0,53.30879974,False,False
+SRB,Serbia,2020,7790.0,78.36804864,False,False
+SYC,Seychelles,2020,15400.0,79.25170135,False,False
+SLE,Sierra Leone,2020,840.0,17.12080002,False,False
+SGP,Singapore,2020,56290.0,92.00434653,False,True
+SVK,Slovak Republic,2020,19420.0,89.92090413,False,False
+SVN,Slovenia,2020,25380.0,86.60130109,False,False
+SLB,Solomon Islands,2020,2170.0,24.1984005,False,False
+SOM,Somalia,2020,500.0,15.02369976,False,False
+ZAF,South Africa,2020,5930.0,72.1128006,False,False
+ESP,Spain,2020,27410.0,93.20564892,False,False
+LKA,Sri Lanka,2020,3880.0,36.18473435,False,False
+PSE,State of Palestine,2020,3700.0,76.18160248,False,False
+SWE,Sweden,2020,54590.0,94.53943122,False,False
+CHE,Switzerland,2020,83150.0,94.34999847,False,False
+TJK,Tajikistan,2020,1030.0,27.54409981,False,False
+TZA,Tanzania,2020,1060.0,19.48139954,False,False
+THA,Thailand,2020,6910.0,77.84374066,False,True
+TLS,Timor-Leste,2020,2040.0,32.01269913,False,True
+TGO,Togo,2020,970.0,29.02370071,False,False
+TON,Tonga,2020,5210.0,54.47370148,False,False
+TTO,Trinidad and Tobago,2020,15040.0,77.28130341,False,False
+TUN,Tunisia,2020,3270.0,68.55639648,False,False
+TUR,Turkiye,2020,9330.0,77.6695605,False,False
+UGA,Uganda,2020,820.0,7.4,False,False
+UKR,Ukraine,2020,3530.0,75.03790912,False,False
+ARE,United Arab Emirates,2020,41310.0,100.0,False,False
+GBR,United Kingdom,2020,39350.0,94.81820132,False,False
+USA,United States,2020,64630.0,90.34470367,False,False
+URY,Uruguay,2020,16130.0,85.47100067,False,False
+UZB,Uzbekistan,2020,2090.0,71.09999824,False,False
+VEN,Venezuela,2020,1670.0,72.44110107,False,False
+VNM,Viet Nam,2020,3400.0,70.30000012,False,True
+ZMB,Zambia,2020,1110.0,14.64579964,False,False
+ZWE,Zimbabwe,2020,1980.0,29.29856532,False,False
+AFG,Afghanistan,2021,380.0,16.51429939,False,False
+ALB,Albania,2021,6940.0,79.32371752,False,False
+DZA,Algeria,2021,4120.0,72.21240234,False,False
+AND,Andorra,2021,44720.0,93.89749908,False,False
+AGO,Angola,2021,1960.0,34.55649948,False,False
+ATG,Antigua and Barbuda,2021,16690.0,71.64530182,False,False
+ARG,Argentina,2021,10070.0,87.15070683,False,False
+ARM,Armenia,2021,4580.0,78.61225758,False,False
+AUS,Australia,2021,57220.0,96.97219849,False,False
+AUT,Austria,2021,53440.0,92.52915104,False,False
+AZE,Azerbaijan,2021,4910.0,85.99998954,False,False
+BHS,Bahamas,2021,29910.0,92.34980011,False,False
+BHR,Bahrain,2021,25240.0,100.0,False,False
+BGD,Bangladesh,2021,2600.0,38.91744466,False,False
+BRB,Barbados,2021,20700.0,69.4756012,False,False
+BLR,Belarus,2021,7040.0,86.88841196,False,False
+BEL,Belgium,2021,51140.0,92.78867618,False,False
+BLZ,Belize,2021,6120.0,70.65370178,False,False
+BEN,Benin,2021,1280.0,28.20470047,False,False
+BTN,Bhutan,2021,3300.0,85.63688389,False,False
+BOL,Bolivia,2021,3990.0,65.9773785,False,False
+BIH,Bosnia and Herzegovina,2021,6970.0,75.67620138,False,False
+BWA,Botswana,2021,7440.0,54.70069885,False,False
+BRA,Brazil,2021,8060.0,80.68989314,False,False
+BRN,Brunei Darussalam,2021,29890.0,97.62879944,False,True
+BGR,Bulgaria,2021,11720.0,75.27144583,False,False
+BFA,Burkina Faso,2021,820.0,18.1522007,False,False
+BDI,Burundi,2021,250.0,6.777999878,False,False
+CPV,Cabo Verde,2021,3870.0,70.28250122,False,False
+KHM,Cambodia,2021,2120.0,60.76269913,False,True
+CMR,Cameroon,2021,1610.0,38.89260101,False,False
+CAN,Canada,2021,49080.0,93.93710327,False,False
+TCD,Chad,2021,890.0,9.653699875,False,False
+CHL,Chile,2021,14790.0,90.23280334,False,False
+CHN,China,2021,12220.0,73.05323517,False,False
+COL,Colombia,2021,6310.0,73.02837449,False,False
+COM,Comoros,2021,1590.0,30.68120003,False,False
+COG,Congo (Rep. of the),2021,2040.0,30.02739906,False,False
+COD,"Congo, Dem. Rep.",2021,530.0,16.1595993,False,False
+CRI,Costa Rica,2021,12750.0,82.74901607,False,False
+CIV,Cote d'Ivoire,2021,2300.0,35.95069885,False,False
+HRV,Croatia,2021,17390.0,81.25396608,False,False
+CYP,Cyprus,2021,29560.0,90.75951564,False,False
+CZE,Czech Republic,2021,25500.0,82.67062427,False,False
+DNK,Denmark,2021,69810.0,98.8658506,False,False
+DJI,Djibouti,2021,2990.0,61.41120148,False,False
+DMA,Dominica,2021,8660.0,78.07949829,False,False
+DOM,Dominican Rep.,2021,8160.0,85.24298638,False,False
+ECU,Ecuador,2021,6100.0,69.1147995,False,False
+EGY,Egypt,2021,3470.0,72.05599976,False,False
+SLV,El Salvador,2021,4380.0,57.26380157,False,False
+GNQ,Equatorial Guinea,2021,5980.0,58.71730042,False,False
+EST,Estonia,2021,26490.0,90.97970174,False,False
+SWZ,Eswatini,2021,3620.0,53.99530029,False,False
+ETH,Ethiopia,2021,880.0,16.6981031,False,False
+FJI,Fiji,2021,4380.0,70.56800079,False,False
+FIN,Finland,2021,52810.0,92.80806082,False,False
+FRA,France,2021,44300.0,86.09548575,False,False
+GAB,Gabon,2021,7000.0,65.76809692,False,False
+GMB,Gambia,2021,760.0,41.67309952,False,False
+GEO,Georgia,2021,4760.0,76.4427093,False,False
+DEU,Germany,2021,52850.0,91.43060973,False,False
+GHA,Ghana,2021,2250.0,68.6,False,False
+GRC,Greece,2021,20350.0,78.49426371,False,False
+GRD,Grenada,2021,8890.0,67.02279663,False,False
+GTM,Guatemala,2021,4800.0,50.84164945,False,False
+GIN,Guinea,2021,1120.0,28.61330032,False,False
+GNB,Guinea-Bissau,2021,910.0,23.3519001,False,False
+GUY,Guyana,2021,7810.0,71.65090179,False,False
+HTI,Haiti,2021,1450.0,43.37919998,False,False
+HND,Honduras,2021,2440.0,51.95159912,False,False
+HKG,"Hong Kong SAR, China",2021,54380.0,93.08715788,False,False
+HUN,Hungary,2021,18070.0,88.64083466,False,False
+ISL,Iceland,2021,68000.0,99.68701957,False,False
+IND,India,2021,2170.0,49.2580986,False,False
+IDN,Indonesia,2021,4130.0,62.10447842,True,True
+IRN,Iran (Islamic Republic of),2021,4110.0,78.5957366,False,False
+IRQ,Iraq,2021,4740.0,65.00219727,False,False
+IRL,Ireland,2021,74070.0,93.50610352,False,False
+ISR,Israel,2021,49640.0,90.29689758,False,False
+ITA,Italy,2021,36760.0,74.8623274,False,False
+JAM,Jamaica,2021,5690.0,82.36071561,False,False
+JPN,Japan,2021,45160.0,82.91407928,False,False
+JOR,Jordan,2021,4650.0,85.999997,False,False
+KAZ,Kazakhstan,2021,8540.0,90.9239507,False,False
+KEN,Kenya,2021,2070.0,26.96290016,False,False
+KIR,Kiribati,2021,3150.0,67.08760071,False,False
+KOR,Korea (Rep. of),2021,37450.0,97.57132698,False,False
+KWT,Kuwait,2021,35990.0,99.7,False,False
+KGZ,Kyrgyz Republic,2021,1270.0,77.11769867,False,False
+LAO,Lao P.D.R.,2021,2500.0,62.0,False,True
+LVA,Latvia,2021,19310.0,91.17964988,False,False
+LBN,Lebanon,2021,4770.0,82.65599823,False,False
+LSO,Lesotho,2021,1190.0,45.05670166,False,False
+LBR,Liberia,2021,630.0,26.38229942,False,False
+LBY,Libya,2021,6950.0,77.438797,False,False
+LTU,Lithuania,2021,22040.0,86.93054425,False,False
+LUX,Luxembourg,2021,86850.0,98.66086333,False,False
+MAC,"Macao SAR, China",2021,46220.0,88.46810492,False,False
+MDG,Madagascar,2021,470.0,13.74590015,False,False
+MWI,Malawi,2021,600.0,15.30300045,False,False
+MYS,Malaysia,2021,10520.0,96.7514278,False,True
+MDV,Maldives,2021,9350.0,81.95760345,False,False
+MLI,Mali,2021,960.0,33.95650101,False,False
+MLT,Malta,2021,32440.0,87.46977742,False,False
+MHL,Marshall Islands,2021,6720.0,63.97259903,False,False
+MRT,Mauritania,2021,1810.0,35.63660049,False,False
+MUS,Mauritius,2021,10900.0,71.59999847,False,False
+MEX,Mexico,2021,9880.0,75.62650476,False,False
+MDA,Moldova,2021,5270.0,74.91899872,False,False
+MNG,Mongolia,2021,3690.0,81.60682285,False,False
+MNE,Montenegro,2021,9220.0,82.21969752,False,False
+MAR,Morocco,2021,3630.0,88.13031937,False,False
+MOZ,Mozambique,2021,490.0,16.35759926,False,False
+NAM,Namibia,2021,4140.0,60.25999832,False,False
+NRU,Naoero,2021,19620.0,80.29499817,False,False
+NPL,Nepal,2021,1250.0,40.98910141,False,False
+NLD,Netherlands,2021,59560.0,92.05298013,False,False
+NZL,New Zealand,2021,45750.0,91.99060059,False,False
+NIC,Nicaragua,2021,2060.0,51.62039948,False,False
+NER,Niger,2021,580.0,12.45689964,False,False
+NGA,Nigeria,2021,2860.0,35.50979996,False,False
+MKD,North Macedonia,2021,7050.0,81.873703,False,False
+NOR,Norway,2021,83640.0,99.0000036,False,False
+OMN,Oman,2021,17910.0,95.23880005,False,False
+PAN,Panama,2021,14920.0,66.04270172,False,False
+PNG,Papua New Guinea,2021,2370.0,16.55960083,False,False
+PRY,Paraguay,2021,5720.0,77.01838621,False,False
+PER,Peru,2021,6550.0,71.10782643,False,False
+PHL,Philippines,2021,3570.0,66.90779877,False,True
+POL,Poland,2021,17470.0,85.37490906,False,False
+PRT,Portugal,2021,23980.0,82.30902804,False,False
+PRI,Puerto Rico,2021,22580.0,84.78666399,False,False
+QAT,Qatar,2021,66970.0,99.65280151,False,False
+ROU,Romania,2021,14180.0,83.5904265,False,False
+RUS,Russian Federation,2021,11710.0,88.21384578,False,False
+RWA,Rwanda,2021,850.0,24.4416008,False,False
+KNA,Saint Kitts and Nevis,2021,19070.0,74.37159729,False,False
+LCA,Saint Lucia,2021,10030.0,63.06330109,False,False
+VCT,Saint Vincent and the Grenadines,2021,8720.0,68.83339691,False,False
+SMR,San Marino,2021,48190.0,81.66999817,False,False
+STP,Sao Tome and Principe,2021,2220.0,54.94950104,False,False
+SAU,Saudi Arabia,2021,30480.0,100.0,False,False
+SEN,Senegal,2021,1540.0,55.04040146,False,False
+SRB,Serbia,2021,8890.0,81.16588116,False,False
+SYC,Seychelles,2021,14890.0,81.99530029,False,False
+SLE,Sierra Leone,2021,890.0,18.65390015,False,False
+SGP,Singapore,2021,65540.0,96.92468156,False,True
+SVK,Slovak Republic,2021,21010.0,88.92560523,False,False
+SVN,Slovenia,2021,28320.0,89.00399524,False,False
+SLB,Solomon Islands,2021,2120.0,26.03790092,False,False
+SOM,Somalia,2021,540.0,23.87479973,False,False
+ZAF,South Africa,2021,6320.0,74.96859741,False,False
+ESP,Spain,2021,30380.0,93.89752157,False,False
+LKA,Sri Lanka,2021,4010.0,44.45308724,False,False
+SWE,Sweden,2021,59840.0,94.6703163,False,False
+CHE,Switzerland,2021,91900.0,95.56937154,False,False
+TJK,Tajikistan,2021,1130.0,36.70560074,False,False
+TZA,Tanzania,2021,1130.0,22.87540054,False,False
+THA,Thailand,2021,7100.0,85.26956666,False,True
+TLS,Timor-Leste,2021,2050.0,35.04199982,False,True
+TGO,Togo,2021,1040.0,30.33839989,False,False
+TON,Tonga,2021,5240.0,57.549,False,False
+TTO,Trinidad and Tobago,2021,16310.0,84.36576986,False,False
+TUN,Tunisia,2021,3640.0,68.31552226,False,False
+TUR,Turkiye,2021,10230.0,81.40843745,False,False
+UGA,Uganda,2021,860.0,10.0,False,False
+UKR,Ukraine,2021,4060.0,79.21829353,False,False
+ARE,United Arab Emirates,2021,43230.0,100.0,False,False
+GBR,United Kingdom,2021,45880.0,96.19650269,False,False
+USA,United States,2021,71510.0,91.2684021,False,False
+URY,Uruguay,2021,16220.0,87.64440155,False,False
+UZB,Uzbekistan,2021,2360.0,76.59043014,False,False
+VEN,Venezuela,2021,1790.0,74.11219788,False,False
+VNM,Viet Nam,2021,3540.0,74.20999985,False,True
+ZMB,Zambia,2021,1050.0,14.82190037,False,False
+ZWE,Zimbabwe,2021,2330.0,32.5923996,False,False
+AFG,Afghanistan,2022,370.0,15.86629963,False,False
+ALB,Albania,2022,7720.0,82.61367544,False,False
+DZA,Algeria,2022,4430.0,74.78150177,False,False
+AND,Andorra,2022,47600.0,94.05169678,False,False
+AGO,Angola,2022,2290.0,35.83800125,False,False
+ATG,Antigua and Barbuda,2022,18730.0,71.9233017,False,False
+ARG,Argentina,2022,11890.0,88.37535691,False,False
+ARM,Armenia,2022,5690.0,77.02767465,False,False
+AUS,Australia,2022,60790.0,96.11940002,False,False
+AUT,Austria,2022,56310.0,93.61409139,False,False
+AZE,Azerbaijan,2022,5670.0,88.0,False,False
+BHS,Bahamas,2022,33790.0,92.2559967,False,False
+BHR,Bahrain,2022,28300.0,100.0,False,False
+BGD,Bangladesh,2022,2850.0,41.61650085,False,False
+BRB,Barbados,2022,24760.0,69.06359863,False,False
+BLR,Belarus,2022,7210.0,89.50733148,False,False
+BEL,Belgium,2022,54330.0,94.00783071,False,False
+BLZ,Belize,2022,6710.0,69.98329926,False,False
+BEN,Benin,2022,1360.0,30.53730011,False,False
+BTN,Bhutan,2022,3600.0,88.35620117,False,False
+BOL,Bolivia,2022,4190.0,72.62270355,False,False
+BIH,Bosnia and Herzegovina,2022,7710.0,78.8455371,False,False
+BWA,Botswana,2022,7690.0,57.9,False,False
+BRA,Brazil,2022,8440.0,80.52775094,False,False
+BRN,Brunei Darussalam,2022,30970.0,98.97042579,False,True
+BGR,Bulgaria,2022,13100.0,79.12686326,False,False
+BFA,Burkina Faso,2022,840.0,25.3987999,False,False
+BDI,Burundi,2022,280.0,7.144800186,False,False
+CPV,Cabo Verde,2022,4550.0,73.32740021,False,False
+KHM,Cambodia,2022,2270.0,65.49079895,False,True
+CMR,Cameroon,2022,1660.0,40.12559891,False,False
+CAN,Canada,2022,54070.0,94.0,False,False
+CAF,Central African Rep.,2022,520.0,13.75360012,False,False
+TCD,Chad,2022,920.0,11.17029953,False,False
+CHL,Chile,2022,15430.0,92.31819916,False,False
+CHN,China,2022,13170.0,75.61131603,False,False
+COL,Colombia,2022,6560.0,72.79637855,False,False
+COM,Comoros,2022,1630.0,31.37409973,False,False
+COG,Congo (Rep. of the),2022,2170.0,40.98669815,False,False
+COD,"Congo, Dem. Rep.",2022,610.0,17.99620056,False,False
+CRI,Costa Rica,2022,13490.0,82.59801121,False,False
+CIV,Cote d'Ivoire,2022,2440.0,38.41328122,False,False
+HRV,Croatia,2022,19370.0,82.07155532,False,False
+CYP,Cyprus,2022,31900.0,89.60099194,False,False
+CZE,Czech Republic,2022,27210.0,84.54009378,False,False
+DNK,Denmark,2022,72040.0,97.86011812,False,False
+DJI,Djibouti,2022,3310.0,63.77600098,False,False
+DMA,Dominica,2022,9740.0,80.57980347,False,False
+DOM,Dominican Rep.,2022,9150.0,81.51269675,False,False
+ECU,Ecuador,2022,6550.0,69.71811356,False,False
+EGY,Egypt,2022,4040.0,72.19806556,False,False
+SLV,El Salvador,2022,4710.0,60.05609894,False,False
+GNQ,Equatorial Guinea,2022,5210.0,63.65950012,False,False
+EST,Estonia,2022,27580.0,91.52016546,False,False
+SWZ,Eswatini,2022,3650.0,57.34370041,False,False
+ETH,Ethiopia,2022,960.0,17.9836998,False,False
+FJI,Fiji,2022,5250.0,72.56549835,False,False
+FIN,Finland,2022,54120.0,92.98879471,False,False
+FRA,France,2022,46010.0,85.33331734,False,False
+GAB,Gabon,2022,7150.0,67.67169952,False,False
+GMB,Gambia,2022,830.0,48.22539902,False,False
+GEO,Georgia,2022,5690.0,78.71127536,False,False
+DEU,Germany,2022,55200.0,91.62984383,False,False
+GHA,Ghana,2022,2270.0,69.91329956,False,False
+GRC,Greece,2022,21980.0,83.17066333,False,False
+GRD,Grenada,2022,9980.0,68.42030334,False,False
+GTM,Guatemala,2022,5220.0,54.40430069,False,False
+GIN,Guinea,2022,1280.0,31.31399918,False,False
+GNB,Guinea-Bissau,2022,960.0,27.67379951,False,False
+GUY,Guyana,2022,14680.0,76.56240082,False,False
+HTI,Haiti,2022,1610.0,47.77470016,False,False
+HND,Honduras,2022,2700.0,56.88069916,False,False
+HKG,"Hong Kong SAR, China",2022,54000.0,95.61357052,False,False
+HUN,Hungary,2022,19200.0,89.14282688,False,False
+ISL,Iceland,2022,74620.0,97.58339691,False,False
+IND,India,2022,2360.0,55.9,False,False
+IDN,Indonesia,2022,4520.0,66.48461277,True,True
+IRN,Iran (Islamic Republic of),2022,4390.0,81.71649933,False,False
+IRQ,Iraq,2022,5510.0,78.71560926,False,False
+IRL,Ireland,2022,75970.0,95.03690338,False,False
+ISR,Israel,2022,55460.0,91.85079615,False,False
+ITA,Italy,2022,39060.0,85.06074504,False,False
+JAM,Jamaica,2022,6340.0,85.84329987,False,False
+JPN,Japan,2022,44300.0,84.92343147,False,False
+JOR,Jordan,2022,4810.0,90.4999984,False,False
+KAZ,Kazakhstan,2022,9400.0,92.29685266,False,False
+KEN,Kenya,2022,2170.0,29.40589905,False,False
+KIR,Kiribati,2022,3280.0,84.99849701,False,False
+KOR,Korea (Rep. of),2022,38590.0,97.16855335,False,False
+KWT,Kuwait,2022,39120.0,99.74729919,False,False
+KGZ,Kyrgyz Republic,2022,1540.0,84.1937027,False,False
+LAO,Lao P.D.R.,2022,2300.0,64.54000092,False,True
+LVA,Latvia,2022,20630.0,91.03009059,False,False
+LBN,Lebanon,2022,4130.0,81.46479797,False,False
+LSO,Lesotho,2022,1270.0,48.06959915,False,False
+LBR,Liberia,2022,660.0,30.38010025,False,False
+LBY,Libya,2022,6010.0,80.64720154,False,False
+LTU,Lithuania,2022,23840.0,87.72420219,False,False
+LUX,Luxembourg,2022,84190.0,98.24203749,False,False
+MAC,"Macao SAR, China",2022,45210.0,89.48549652,False,False
+MDG,Madagascar,2022,500.0,17.81170082,False,False
+MWI,Malawi,2022,610.0,16.84830093,False,False
+MYS,Malaysia,2022,11620.0,97.3986404,False,True
+MDV,Maldives,2022,10570.0,83.91189054,False,False
+MLI,Mali,2022,1000.0,35.19919968,False,False
+MLT,Malta,2022,34840.0,91.54062209,False,False
+MHL,Marshall Islands,2022,7580.0,64.26719666,False,False
+MRT,Mauritania,2022,2010.0,42.46450043,False,False
+MUS,Mauritius,2022,11810.0,75.5,False,False
+MEX,Mexico,2022,10730.0,78.63217894,False,False
+FSM,Micronesia,2022,4020.0,39.0279007,False,False
+MDA,Moldova,2022,5540.0,74.91899872,False,False
+MNG,Mongolia,2022,4340.0,81.07720184,False,False
+MNE,Montenegro,2022,10420.0,88.22192026,False,False
+MAR,Morocco,2022,3700.0,89.9,False,False
+MOZ,Mozambique,2022,500.0,18.96220016,False,False
+NAM,Namibia,2022,4280.0,62.99720001,False,False
+NRU,Naoero,2022,20890.0,83.22660065,False,False
+NPL,Nepal,2022,1380.0,45.45080185,False,False
+NLD,Netherlands,2022,62110.0,92.51968504,False,False
+NZL,New Zealand,2022,49090.0,93.07289886,False,False
+NIC,Nicaragua,2022,2150.0,59.38000107,False,False
+NER,Niger,2022,650.0,13.08749962,False,False
+NGA,Nigeria,2022,2940.0,39.14720154,False,False
+MKD,North Macedonia,2022,7570.0,83.85030365,False,False
+NOR,Norway,2022,97270.0,98.99997764,False,False
+OMN,Oman,2022,19270.0,95.24530029,False,False
+PLW,Palau,2022,14100.0,82.56749725,False,False
+PAN,Panama,2022,17130.0,67.2838974,False,False
+PNG,Papua New Guinea,2022,2690.0,18.25659943,False,False
+PRY,Paraguay,2022,5900.0,76.25916611,False,False
+PER,Peru,2022,6930.0,74.67495213,False,False
+PHL,Philippines,2022,4010.0,75.21114422,False,True
+POL,Poland,2022,19110.0,86.94113479,False,False
+PRT,Portugal,2022,25880.0,84.49690644,False,False
+PRI,Puerto Rico,2022,24670.0,87.29178106,False,False
+QAT,Qatar,2022,71050.0,98.03800201,False,False
+ROU,Romania,2022,15390.0,85.50309124,False,False
+RUS,Russian Federation,2022,12890.0,90.41799163,False,False
+RWA,Rwanda,2022,970.0,28.01679993,False,False
+KNA,Saint Kitts and Nevis,2022,21420.0,75.76229858,False,False
+LCA,Saint Lucia,2022,11680.0,66.95159912,False,False
+VCT,Saint Vincent and the Grenadines,2022,9520.0,74.75479889,False,False
+SMR,San Marino,2022,53950.0,97.32790375,False,False
+STP,Sao Tome and Principe,2022,2820.0,58.56779861,False,False
+SAU,Saudi Arabia,2022,35110.0,100.0,False,False
+SEN,Senegal,2022,1590.0,56.82830048,False,False
+SRB,Serbia,2022,9790.0,83.53825397,False,False
+SYC,Seychelles,2022,14390.0,84.83380127,False,False
+SLE,Sierra Leone,2022,920.0,21.50880051,False,False
+SGP,Singapore,2022,68100.0,95.95386476,False,True
+SVK,Slovak Republic,2022,21890.0,89.06766196,False,False
+SVN,Slovenia,2022,29590.0,88.91248552,False,False
+SLB,Solomon Islands,2022,2010.0,28.01729965,False,False
+SOM,Somalia,2022,570.0,27.6,False,False
+ZAF,South Africa,2022,6530.0,78.29319763,False,False
+ESP,Spain,2022,32690.0,94.4855432,False,False
+LKA,Sri Lanka,2022,3620.0,48.3,False,False
+PSE,State of Palestine,2022,4720.0,88.64690554,False,False
+SWE,Sweden,2022,61930.0,95.00970335,False,False
+CHE,Switzerland,2022,97920.0,96.45279694,False,False
+TJK,Tajikistan,2022,1360.0,48.91429901,False,False
+TZA,Tanzania,2022,1210.0,26.86059952,False,False
+THA,Thailand,2022,7220.0,87.97724503,False,True
+TGO,Togo,2022,1130.0,35.60749817,False,False
+TON,Tonga,2022,5390.0,61.60739899,False,False
+TTO,Trinidad and Tobago,2022,16100.0,81.69760132,False,False
+TUR,Turkiye,2022,10870.0,83.43716576,False,False
+UGA,Uganda,2022,930.0,9.636899948,False,False
+UKR,Ukraine,2022,3930.0,80.47429657,False,False
+ARE,United Arab Emirates,2022,46990.0,100.0,False,False
+GBR,United Kingdom,2022,49690.0,95.46530151,False,False
+USA,United States,2022,77230.0,92.72850037,False,False
+URY,Uruguay,2022,18050.0,89.87304314,False,False
+UZB,Uzbekistan,2022,2620.0,83.90000012,False,False
+VEN,Venezuela,2022,2260.0,75.82180023,False,False
+VNM,Viet Nam,2022,3980.0,78.58999918,False,True
+ZMB,Zambia,2022,1170.0,15.0,False,False
+ZWE,Zimbabwe,2022,2580.0,36.25650024,False,False
+AFG,Afghanistan,2023,370.0,15.92840004,False,False
+ALB,Albania,2023,8740.0,83.13559161,False,False
+DZA,Algeria,2023,4950.0,76.19760132,False,False
+AND,Andorra,2023,47920.0,94.21499634,False,False
+AGO,Angola,2023,2650.0,37.88589859,False,False
+ATG,Antigua and Barbuda,2023,20250.0,72.12409973,False,False
+ARG,Argentina,2023,12920.0,89.22897166,False,False
+ARM,Armenia,2023,6850.0,79.99663036,False,False
+AUS,Australia,2023,63320.0,96.1160965,False,False
+AUT,Austria,2023,55890.0,95.33467117,False,False
+AZE,Azerbaijan,2023,6680.0,89.0,False,False
+BHS,Bahamas,2023,35180.0,92.38729858,False,False
+BHR,Bahrain,2023,28460.0,100.0,False,False
+BGD,Bangladesh,2023,2880.0,44.50274195,False,False
+BRB,Barbados,2023,24710.0,69.67510223,False,False
+BLR,Belarus,2023,7850.0,91.51249979,False,False
+BEL,Belgium,2023,55520.0,94.62625074,False,False
+BLZ,Belize,2023,6850.0,70.18720245,False,False
+BEN,Benin,2023,1390.0,32.39400101,False,False
+BTN,Bhutan,2023,3730.0,90.02140045,False,False
+BOL,Bolivia,2023,4230.0,77.30039978,False,False
+BIH,Bosnia and Herzegovina,2023,8280.0,83.3771539,False,False
+BRA,Brazil,2023,9310.0,84.15060238,False,False
+BRN,Brunei Darussalam,2023,34390.0,98.97039795,False,True
+BGR,Bulgaria,2023,14240.0,80.38956462,False,False
+BFA,Burkina Faso,2023,840.0,25.36120033,False,False
+BDI,Burundi,2023,280.0,7.172299862,False,False
+CPV,Cabo Verde,2023,4740.0,74.59919739,False,False
+KHM,Cambodia,2023,2390.0,68.92549896,False,True
+CMR,Cameroon,2023,1680.0,42.24380112,False,False
+CAN,Canada,2023,55340.0,94.14530182,False,False
+CAF,Central African Rep.,2023,530.0,13.8416996,False,False
+TCD,Chad,2023,910.0,12.03590012,False,False
+CHL,Chile,2023,15970.0,94.45742345,False,False
+CHN,China,2023,13750.0,90.6,False,False
+COL,Colombia,2023,6760.0,77.33686322,False,False
+COM,Comoros,2023,1670.0,31.92749977,False,False
+COG,Congo (Rep. of the),2023,2310.0,43.15039825,False,False
+COD,"Congo, Dem. Rep.",2023,680.0,18.96789932,False,False
+CRI,Costa Rica,2023,14330.0,85.39514799,False,False
+CIV,Cote d'Ivoire,2023,2510.0,40.65284979,False,False
+HRV,Croatia,2023,20800.0,83.24117599,False,False
+CYP,Cyprus,2023,32380.0,91.22110357,False,False
+CZE,Czech Republic,2023,28540.0,85.99404818,False,False
+DNK,Denmark,2023,72080.0,98.77559197,False,False
+DJI,Djibouti,2023,3500.0,64.75869751,False,False
+DMA,Dominica,2023,9990.0,81.33650208,False,False
+DOM,Dominican Rep.,2023,9700.0,86.12689972,False,False
+ECU,Ecuador,2023,6570.0,72.6943146,False,False
+EGY,Egypt,2023,3840.0,74.01190186,False,False
+SLV,El Salvador,2023,4930.0,62.61989975,False,False
+GNQ,Equatorial Guinea,2023,6230.0,63.51950073,False,False
+EST,Estonia,2023,27650.0,93.18342241,False,False
+SWZ,Eswatini,2023,3750.0,61.33330154,False,False
+ETH,Ethiopia,2023,1030.0,20.33749962,False,False
+FJI,Fiji,2023,5670.0,74.1160965,False,False
+FIN,Finland,2023,52870.0,93.51385075,False,False
+FRA,France,2023,45770.0,86.83635789,False,False
+GAB,Gabon,2023,7660.0,68.19789886,False,False
+GMB,Gambia,2023,870.0,48.72829819,False,False
+GEO,Georgia,2023,6710.0,81.88425624,False,False
+DEU,Germany,2023,55420.0,92.4763763,False,False
+GHA,Ghana,2023,2310.0,70.67430115,False,False
+GRC,Greece,2023,22300.0,85.0102229,False,False
+GRD,Grenada,2023,10100.0,69.4131012,False,False
+GTM,Guatemala,2023,5470.0,56.72669983,False,False
+GIN,Guinea,2023,1340.0,32.31560135,False,False
+GNB,Guinea-Bissau,2023,970.0,28.71240044,False,False
+GUY,Guyana,2023,17770.0,79.3553009,False,False
+HTI,Haiti,2023,1740.0,47.99269867,False,False
+HND,Honduras,2023,2870.0,58.0685997,False,False
+HKG,"Hong Kong SAR, China",2023,54870.0,95.97781908,False,False
+HUN,Hungary,2023,19820.0,91.4500713,False,False
+ISL,Iceland,2023,80870.0,97.94860077,False,False
+IND,India,2023,2490.0,60.25230026,False,False
+IDN,Indonesia,2023,4810.0,69.20836554,True,True
+IRN,Iran (Islamic Republic of),2023,5070.0,83.71050262,False,False
+IRQ,Iraq,2023,5920.0,81.80889893,False,False
+IRL,Ireland,2023,79280.0,96.8660965,False,False
+ISR,Israel,2023,54480.0,87.03842615,False,False
+ITA,Italy,2023,38750.0,87.0278292,False,False
+JAM,Jamaica,2023,6860.0,89.47304282,False,False
+JPN,Japan,2023,40740.0,85.00990295,False,False
+JOR,Jordan,2023,4890.0,92.53443944,False,False
+KAZ,Kazakhstan,2023,10710.0,92.87846096,False,False
+KEN,Kenya,2023,2110.0,32.07040024,False,False
+KIR,Kiribati,2023,3710.0,88.0,False,False
+KOR,Korea (Rep. of),2023,38020.0,97.41597478,False,False
+KWT,Kuwait,2023,42040.0,99.74731125,False,False
+KGZ,Kyrgyz Republic,2023,1840.0,91.04440308,False,False
+LAO,Lao P.D.R.,2023,2110.0,64.39800262,False,True
+LVA,Latvia,2023,21000.0,92.18791291,False,False
+LBN,Lebanon,2023,3710.0,81.7059021,False,False
+LSO,Lesotho,2023,1260.0,48.98590088,False,False
+LBR,Liberia,2023,710.0,31.22410011,False,False
+LBY,Libya,2023,6160.0,82.10469818,False,False
+LTU,Lithuania,2023,25360.0,88.50287484,False,False
+LUX,Luxembourg,2023,88480.0,99.34785707,False,False
+MAC,"Macao SAR, China",2023,64780.0,89.82640076,False,False
+MDG,Madagascar,2023,510.0,18.24080086,False,False
+MWI,Malawi,2023,620.0,17.98810346,False,False
+MYS,Malaysia,2023,11700.0,97.69272633,False,True
+MDV,Maldives,2023,11130.0,84.55290222,False,False
+MLI,Mali,2023,1010.0,36.03879929,False,False
+MLT,Malta,2023,35720.0,92.07266941,False,False
+MHL,Marshall Islands,2023,7960.0,64.07589722,False,False
+MRT,Mauritania,2023,2140.0,44.95629883,False,False
+MUS,Mauritius,2023,12530.0,79.5,False,False
+MEX,Mexico,2023,11990.0,81.18318755,False,False
+FSM,Micronesia,2023,4270.0,39.39889908,False,False
+MDA,Moldova,2023,6250.0,76.50330353,False,False
+MNG,Mongolia,2023,4870.0,83.74320221,False,False
+MNE,Montenegro,2023,11560.0,88.5515976,False,False
+MAR,Morocco,2023,3780.0,91.0,False,False
+MOZ,Mozambique,2023,540.0,19.94560051,False,False
+NAM,Namibia,2023,4310.0,63.69549942,False,False
+NRU,Naoero,2023,22370.0,83.03970337,False,False
+NPL,Nepal,2023,1430.0,45.80680084,False,False
+NLD,Netherlands,2023,62550.0,97.00680272,False,False
+NZL,New Zealand,2023,49470.0,93.32610321,False,False
+NIC,Nicaragua,2023,2360.0,60.30120087,False,False
+NER,Niger,2023,640.0,12.98079967,False,False
+NGA,Nigeria,2023,2590.0,40.06399918,False,False
+MKD,North Macedonia,2023,7940.0,88.5,False,False
+NOR,Norway,2023,101840.0,99.00000258,False,False
+OMN,Oman,2023,19950.0,95.25170135,False,False
+PLW,Palau,2023,14750.0,82.91629791,False,False
+PAN,Panama,2023,17830.0,68.54851592,False,False
+PNG,Papua New Guinea,2023,2800.0,18.56130028,False,False
+PRY,Paraguay,2023,6200.0,78.09481878,False,False
+PER,Peru,2023,7100.0,79.48484477,False,False
+PHL,Philippines,2023,4320.0,77.86699677,False,True
+POL,Poland,2023,19890.0,86.414744,False,False
+PRT,Portugal,2023,26340.0,85.79012676,False,False
+QAT,Qatar,2023,79430.0,98.15229797,False,False
+ROU,Romania,2023,16590.0,89.20335498,False,False
+RUS,Russian Federation,2023,14400.0,92.24496346,False,False
+RWA,Rwanda,2023,1030.0,28.80579948,False,False
+KNA,Saint Kitts and Nevis,2023,21870.0,76.58950043,False,False
+LCA,Saint Lucia,2023,12440.0,67.44390106,False,False
+VCT,Saint Vincent and the Grenadines,2023,10210.0,75.53679657,False,False
+SMR,San Marino,2023,53910.0,97.33640289,False,False
+STP,Sao Tome and Principe,2023,2810.0,58.70130157,False,False
+SAU,Saudi Arabia,2023,36330.0,100.0,False,False
+SEN,Senegal,2023,1620.0,59.18740082,False,False
+SRB,Serbia,2023,10750.0,85.35746686,False,False
+SYC,Seychelles,2023,16340.0,86.001297,False,False
+SLE,Sierra Leone,2023,870.0,23.71360016,False,False
+SGP,Singapore,2023,69530.0,94.28518987,False,True
+SVK,Slovak Republic,2023,22710.0,87.2131343,False,False
+SVN,Slovenia,2023,31020.0,90.37794678,False,False
+SLB,Solomon Islands,2023,1980.0,28.67239952,False,False
+SOM,Somalia,2023,600.0,26.12010002,False,False
+ZAF,South Africa,2023,6490.0,78.33670044,False,False
+ESP,Spain,2023,32980.0,95.44564516,False,False
+LKA,Sri Lanka,2023,3550.0,51.2,False,False
+PSE,State of Palestine,2023,4450.0,86.63765334,False,False
+SUR,Suriname,2023,5210.0,87.4,False,False
+SWE,Sweden,2023,60540.0,95.70327461,False,False
+CHE,Switzerland,2023,98160.0,97.34436623,False,False
+TJK,Tajikistan,2023,1400.0,54.41550064,False,False
+TZA,Tanzania,2023,1220.0,28.43190002,False,False
+THA,Thailand,2023,7210.0,89.53525238,False,True
+TGO,Togo,2023,1190.0,37.57020187,False,False
+TON,Tonga,2023,5910.0,64.13140106,False,False
+TTO,Trinidad and Tobago,2023,19880.0,81.9681015,False,False
+TUR,Turkiye,2023,11980.0,85.96074155,False,False
+UGA,Uganda,2023,970.0,9.286999702,False,False
+UKR,Ukraine,2023,4980.0,81.58059692,False,False
+ARE,United Arab Emirates,2023,51100.0,100.0,False,False
+GBR,United Kingdom,2023,48800.0,95.44719696,False,False
+USA,United States,2023,79950.0,93.52559662,False,False
+URY,Uruguay,2023,20070.0,90.92590332,False,False
+UZB,Uzbekistan,2023,2880.0,89.01361047,False,False
+VEN,Venezuela,2023,3040.0,76.33190155,False,False
+VNM,Viet Nam,2023,4140.0,78.08,False,True
+ZMB,Zambia,2023,1270.0,16.45070076,False,False
+ZWE,Zimbabwe,2023,2550.0,38.67480087,False,False
+AFG,Afghanistan,2024,390.0,16.09499931,False,False
+ALB,Albania,2024,9910.0,85.86389923,False,False
+DZA,Algeria,2024,5370.0,77.4178009,False,False
+AND,Andorra,2024,47740.0,94.39759827,False,False
+AGO,Angola,2024,2850.0,40.70479965,False,False
+ATG,Antigua and Barbuda,2024,21200.0,72.73040009,False,False
+ARG,Argentina,2024,13530.0,89.66715228,False,False
+ARM,Armenia,2024,7810.0,81.33930206,False,False
+AUS,Australia,2024,62680.0,96.13140106,False,False
+AUT,Austria,2024,54760.0,94.91974877,False,False
+AZE,Azerbaijan,2024,7340.0,90.43979645,False,False
+BHS,Bahamas,2024,37020.0,92.47270203,False,False
+BHR,Bahrain,2024,28170.0,100.0,False,False
+BGD,Bangladesh,2024,2820.0,53.42171316,False,False
+BRB,Barbados,2024,25360.0,70.36470032,False,False
+BLR,Belarus,2024,8380.0,94.26182128,False,False
+BEL,Belgium,2024,55290.0,95.77579144,False,False
+BLZ,Belize,2024,7150.0,80.00582262,False,False
+BEN,Benin,2024,1430.0,33.98379898,False,False
+BTN,Bhutan,2024,3910.0,91.27739716,False,False
+BOL,Bolivia,2024,4160.0,79.70469666,False,False
+BIH,Bosnia and Herzegovina,2024,8810.0,86.10091103,False,False
+BWA,Botswana,2024,7610.0,57.45950036,False,False
+BRA,Brazil,2024,9930.0,84.46347227,False,False
+BRN,Brunei Darussalam,2024,36020.0,96.29828801,False,True
+BGR,Bulgaria,2024,15370.0,82.438955,False,False
+BFA,Burkina Faso,2024,850.0,28.25270081,False,False
+BDI,Burundi,2024,250.0,8.595999718,False,False
+CPV,Cabo Verde,2024,4940.0,74.73519897,False,False
+KHM,Cambodia,2024,2550.0,68.47530365,False,True
+CMR,Cameroon,2024,1690.0,46.25880051,False,False
+CAN,Canada,2024,54110.0,94.353302,False,False
+CAF,Central African Rep.,2024,510.0,13.78250027,False,False
+TCD,Chad,2024,930.0,12.62689972,False,False
+CHL,Chile,2024,15840.0,95.590243,False,False
+CHN,China,2024,13660.0,92.0,False,False
+COL,Colombia,2024,7090.0,79.34543299,False,False
+COM,Comoros,2024,1730.0,32.51750183,False,False
+COG,Congo (Rep. of the),2024,2270.0,47.25159836,False,False
+COD,"Congo, Dem. Rep.",2024,680.0,19.67350006,False,False
+CRI,Costa Rica,2024,15710.0,87.17019653,False,False
+CIV,Cote d'Ivoire,2024,2520.0,41.43219902,False,False
+HRV,Croatia,2024,22230.0,83.63240029,False,False
+CYP,Cyprus,2024,32870.0,89.60099246,False,False
+CZE,Czech Republic,2024,29570.0,87.68776014,False,False
+DNK,Denmark,2024,72540.0,99.76915157,False,False
+DJI,Djibouti,2024,3640.0,65.29889679,False,False
+DMA,Dominica,2024,9930.0,82.04689789,False,False
+DOM,Dominican Rep.,2024,10310.0,91.0022446,False,False
+ECU,Ecuador,2024,6400.0,77.17273115,False,False
+EGY,Egypt,2024,3510.0,74.64839935,False,False
+SLV,El Salvador,2024,5070.0,66.47769928,False,False
+GNQ,Equatorial Guinea,2024,6050.0,63.29930115,False,False
+EST,Estonia,2024,28880.0,92.23796204,False,False
+SWZ,Eswatini,2024,3440.0,63.40309906,False,False
+ETH,Ethiopia,2024,1100.0,21.94129944,False,False
+FJI,Fiji,2024,5820.0,74.7052002,False,False
+FIN,Finland,2024,51710.0,93.72405196,False,False
+FRA,France,2024,45160.0,88.65381638,False,False
+GAB,Gabon,2024,7870.0,68.72090149,False,False
+GMB,Gambia,2024,880.0,49.49430084,False,False
+GEO,Georgia,2024,7870.0,83.79855689,False,False
+DEU,Germany,2024,55090.0,93.49999579,False,False
+GHA,Ghana,2024,2260.0,72.17569733,False,False
+GRC,Greece,2024,22730.0,86.26968886,False,False
+GRD,Grenada,2024,10790.0,70.16159821,False,False
+GTM,Guatemala,2024,5780.0,60.22140121,False,False
+GIN,Guinea,2024,1440.0,33.30469894,False,False
+GNB,Guinea-Bissau,2024,980.0,29.77739906,False,False
+GUY,Guyana,2024,26400.0,83.00080109,False,False
+HTI,Haiti,2024,1730.0,47.8614006,False,False
+HND,Honduras,2024,3020.0,58.62269974,False,False
+HKG,"Hong Kong SAR, China",2024,57410.0,95.75536971,False,False
+HUN,Hungary,2024,20800.0,93.77898628,False,False
+ISL,Iceland,2024,80910.0,98.209198,False,False
+IND,India,2024,2550.0,64.9434967,False,False
+IDN,Indonesia,2024,4920.0,72.78075544,True,True
+IRN,Iran (Islamic Republic of),2024,5130.0,85.3404007,False,False
+IRQ,Iraq,2024,6030.0,81.47450256,False,False
+IRL,Ireland,2024,80650.0,97.18769836,False,False
+ISR,Israel,2024,53090.0,88.18242225,False,False
+ITA,Italy,2024,38640.0,89.2207202,False,False
+JAM,Jamaica,2024,7190.0,90.10870361,False,False
+JPN,Japan,2024,37170.0,85.54153081,False,False
+JOR,Jordan,2024,4880.0,95.62244985,False,False
+KAZ,Kazakhstan,2024,12100.0,93.39167254,False,False
+KEN,Kenya,2024,2070.0,34.97622513,False,False
+KIR,Kiribati,2024,3580.0,89.44029999,False,False
+KOR,Korea (Rep. of),2024,36750.0,97.89563777,False,False
+KWT,Kuwait,2024,41110.0,99.74729919,False,False
+KGZ,Kyrgyz Republic,2024,2260.0,92.0286026,False,False
+LAO,Lao P.D.R.,2024,2000.0,65.59269714,False,True
+LVA,Latvia,2024,21520.0,92.70757011,False,False
+LBN,Lebanon,2024,3560.0,80.63400269,False,False
+LSO,Lesotho,2024,1240.0,51.79660034,False,False
+LBR,Liberia,2024,750.0,32.23360062,False,False
+LBY,Libya,2024,6790.0,81.95449829,False,False
+LTU,Lithuania,2024,27110.0,89.16116293,False,False
+LUX,Luxembourg,2024,84650.0,98.7606147,False,False
+MAC,"Macao SAR, China",2024,69920.0,89.82640076,False,False
+MDG,Madagascar,2024,520.0,18.67790031,False,False
+MWI,Malawi,2024,570.0,18.96159935,False,False
+MYS,Malaysia,2024,11650.0,98.0206059,False,True
+MDV,Maldives,2024,11540.0,85.23999786,False,False
+MLI,Mali,2024,1030.0,36.80149841,False,False
+MLT,Malta,2024,36540.0,93.86029816,False,False
+MHL,Marshall Islands,2024,8510.0,65.915802,False,False
+MRT,Mauritania,2024,2110.0,45.77939987,False,False
+MUS,Mauritius,2024,12960.0,73.30793533,False,False
+MEX,Mexico,2024,12760.0,83.12233799,False,False
+FSM,Micronesia,2024,4490.0,39.52360153,False,False
+MDA,Moldova,2024,6890.0,77.3687973,False,False
+MNG,Mongolia,2024,5380.0,85.12349701,False,False
+MNE,Montenegro,2024,12210.0,88.88258428,False,False
+MAR,Morocco,2024,3840.0,91.2,False,False
+MOZ,Mozambique,2024,550.0,20.52729988,False,False
+NAM,Namibia,2024,4290.0,64.87460327,False,False
+NRU,Naoero,2024,21940.0,83.01170349,False,False
+NPL,Nepal,2024,1480.0,46.32189941,False,False
+NLD,Netherlands,2024,62500.0,97.00679779,False,False
+NZL,New Zealand,2024,47070.0,93.51930237,False,False
+NIC,Nicaragua,2024,2510.0,61.39550018,False,False
+NER,Niger,2024,670.0,15.55760002,False,False
+NGA,Nigeria,2024,1710.0,41.21139908,False,False
+MKD,North Macedonia,2024,8300.0,93.6,False,False
+NOR,Norway,2024,100030.0,99.0,False,False
+OMN,Oman,2024,19520.0,95.25174678,False,False
+PAK,Pakistan,2024,1430.0,57.253,False,False
+PLW,Palau,2024,16920.0,83.92549896,False,False
+PAN,Panama,2024,17950.0,72.77149963,False,False
+PNG,Papua New Guinea,2024,2860.0,18.81159973,False,False
+PRY,Paraguay,2024,6290.0,81.57806793,False,False
+PER,Peru,2024,7530.0,81.95705992,False,False
+PHL,Philippines,2024,4470.0,67.26300914,False,True
+POL,Poland,2024,21590.0,88.58496367,False,False
+PRT,Portugal,2024,26940.0,88.48704454,False,False
+QAT,Qatar,2024,76570.0,98.08540344,False,False
+ROU,Romania,2024,17600.0,91.29048551,False,False
+RUS,Russian Federation,2024,15330.0,94.36495368,False,False
+RWA,Rwanda,2024,1070.0,31.70330048,False,False
+KNA,Saint Kitts and Nevis,2024,21960.0,76.88400269,False,False
+LCA,Saint Lucia,2024,12840.0,68.20500183,False,False
+VCT,Saint Vincent and the Grenadines,2024,11210.0,76.19010162,False,False
+STP,Sao Tome and Principe,2024,2910.0,59.11759949,False,False
+SAU,Saudi Arabia,2024,35990.0,100.0,False,False
+SEN,Senegal,2024,1630.0,60.11780167,False,False
+SRB,Serbia,2024,11610.0,87.69071294,False,False
+SYC,Seychelles,2024,17700.0,87.81800079,False,False
+SLE,Sierra Leone,2024,820.0,25.10499954,False,False
+SGP,Singapore,2024,75820.0,94.37757178,False,True
+SVK,Slovak Republic,2024,23560.0,89.82507032,False,False
+SVN,Slovenia,2024,31790.0,90.76355487,False,False
+SLB,Solomon Islands,2024,1910.0,29.04070091,False,False
+SOM,Somalia,2024,620.0,27.94020081,False,False
+ZAF,South Africa,2024,6110.0,78.35759735,False,False
+ESP,Spain,2024,33550.0,95.7574516,False,False
+LKA,Sri Lanka,2024,3870.0,54.59,False,False
+SWE,Sweden,2024,58510.0,95.52930428,False,False
+CHE,Switzerland,2024,99920.0,97.3443985,False,False
+TJK,Tajikistan,2024,1650.0,55.79339981,False,False
+TZA,Tanzania,2024,1210.0,31.16209984,False,False
+THA,Thailand,2024,7130.0,90.86718789,False,True
+TGO,Togo,2024,1220.0,39.48320007,False,False
+TON,Tonga,2024,6270.0,67.4417038,False,False
+TTO,Trinidad and Tobago,2024,19290.0,82.15989685,False,False
+TUN,Tunisia,2024,3880.0,76.5,False,False
+TUR,Turkiye,2024,13430.0,87.3078767,False,False
+UGA,Uganda,2024,1010.0,8.949831061,False,False
+UKR,Ukraine,2024,5230.0,82.47489929,False,False
+ARE,United Arab Emirates,2024,51550.0,100.0,False,False
+GBR,United Kingdom,2024,49320.0,95.4720993,False,False
+USA,United States,2024,82910.0,94.69380188,False,False
+URY,Uruguay,2024,22000.0,91.99109007,False,False
+UZB,Uzbekistan,2024,3170.0,89.50550079,False,False
+VEN,Venezuela,2024,3840.0,76.67890167,False,False
+VNM,Viet Nam,2024,4490.0,84.15,False,True
+ZMB,Zambia,2024,1190.0,17.10099983,False,False
+ZWE,Zimbabwe,2024,2400.0,41.64279938,False,False
+AUT,Austria,2025,60360.0,91.92573373,False,False
+AZE,Azerbaijan,2025,7360.0,90.80000181,False,False
+CHN,China,2025,14230.0,91.6,False,False
+IND,India,2025,2760.0,70.0,False,False
+LUX,Luxembourg,2025,95720.0,99.12902211,False,False
+MKD,North Macedonia,2025,9490.0,93.1,False,False
+SWE,Sweden,2025,63010.0,95.76629783,False,False
+CHE,Switzerland,2025,110330.0,97.32103855,False,False
+TUR,Turkiye,2025,16300.0,89.77024003,False,False
